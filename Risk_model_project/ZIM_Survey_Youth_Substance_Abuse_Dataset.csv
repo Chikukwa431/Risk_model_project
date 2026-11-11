@@ -1,0 +1,1501 @@
+Youth_ID,Age,Gender,Peer_Influence,Family_Environment,Psychological_Status,Social_Environment,Drug_Exposure,Youth_Activity_Level,Received_Counselling,Substance_Abuse_Risk
+YTH0001,18,Male,High,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0002,28,Male,Low,Supportive,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH0003,22,Female,Moderate,Conflict,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH0004,19,Male,High,Supportive,Stable,Positive,High,5,No,Moderate Risk
+YTH0005,16,Female,Moderate,Conflict,Stable,Neutral,High,5,No,Moderate Risk
+YTH0006,21,Male,Low,Supportive,Stable,Positive,Low,1,No,Low Risk
+YTH0007,23,Female,Moderate,Supportive,Stable,Positive,Low,1,Yes,Low Risk
+YTH0008,22,Male,Moderate,Supportive,High Stress,Neutral,Low,3,Yes,Low Risk
+YTH0009,22,Male,High,Supportive,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0010,30,Female,High,Neutral,Stable,Positive,Moderate,5,No,Moderate Risk
+YTH0011,28,Female,Moderate,Conflict,Stable,Neutral,High,1,Yes,High Risk
+YTH0012,20,Female,Moderate,Supportive,Moderate Stress,Neutral,Low,5,Yes,Low Risk
+YTH0013,18,Female,High,Supportive,Stable,Positive,Low,3,Yes,Low Risk
+YTH0014,18,Female,High,Neutral,Stable,Positive,Low,5,Yes,Low Risk
+YTH0015,25,Female,Low,Conflict,High Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0016,17,Male,High,Conflict,High Stress,Neutral,Low,4,Yes,Moderate Risk
+YTH0017,23,Female,High,Conflict,High Stress,Neutral,Moderate,4,No,High Risk
+YTH0018,29,Female,Low,Supportive,Stable,Neutral,Low,2,Yes,Low Risk
+YTH0019,17,Male,Low,Conflict,High Stress,Positive,Low,4,Yes,Low Risk
+YTH0020,19,Female,Low,Neutral,Moderate Stress,Positive,Moderate,3,No,Low Risk
+YTH0021,28,Female,High,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH0022,22,Male,Low,Supportive,Moderate Stress,Positive,Low,1,No,Low Risk
+YTH0023,18,Male,Moderate,Neutral,Stable,Positive,High,2,Yes,Moderate Risk
+YTH0024,28,Female,Moderate,Conflict,High Stress,Positive,Low,4,No,Moderate Risk
+YTH0025,29,Female,Moderate,Conflict,High Stress,Neutral,Moderate,2,Yes,High Risk
+YTH0026,24,Male,High,Neutral,Moderate Stress,Neutral,Low,5,No,Moderate Risk
+YTH0027,20,Male,High,Supportive,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH0028,18,Male,Moderate,Supportive,Stable,Neutral,Moderate,3,No,Low Risk
+YTH0029,21,Female,Low,Supportive,Moderate Stress,Positive,Low,1,Yes,Low Risk
+YTH0030,29,Male,Low,Supportive,Stable,Negative,High,2,No,Moderate Risk
+YTH0031,24,Male,Moderate,Neutral,Stable,Negative,High,5,Yes,Moderate Risk
+YTH0032,24,Male,High,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH0033,21,Female,Low,Neutral,Stable,Neutral,High,1,Yes,Moderate Risk
+YTH0034,28,Female,Low,Supportive,Stable,Negative,Low,4,No,Low Risk
+YTH0035,15,Male,Low,Conflict,High Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0036,28,Male,Low,Supportive,High Stress,Negative,Low,3,Yes,Low Risk
+YTH0037,22,Male,Moderate,Neutral,High Stress,Negative,Moderate,2,Yes,High Risk
+YTH0038,20,Female,Low,Neutral,Stable,Negative,High,2,No,Moderate Risk
+YTH0039,20,Male,Moderate,Supportive,Moderate Stress,Positive,High,3,No,Moderate Risk
+YTH0040,22,Male,Low,Supportive,Stable,Negative,High,3,No,Moderate Risk
+YTH0041,27,Female,High,Supportive,High Stress,Positive,High,3,Yes,Moderate Risk
+YTH0042,18,Female,Moderate,Conflict,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0043,23,Male,High,Supportive,High Stress,Neutral,Moderate,2,No,High Risk
+YTH0044,28,Male,High,Conflict,Moderate Stress,Neutral,Low,3,No,Moderate Risk
+YTH0045,28,Female,Moderate,Supportive,Stable,Neutral,High,2,No,Moderate Risk
+YTH0046,27,Male,Moderate,Supportive,High Stress,Neutral,Low,4,No,Moderate Risk
+YTH0047,21,Female,High,Conflict,Moderate Stress,Neutral,Low,5,No,Moderate Risk
+YTH0048,17,Male,Moderate,Supportive,Stable,Positive,Low,4,Yes,Low Risk
+YTH0049,29,Female,High,Neutral,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0050,18,Female,Low,Conflict,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0051,19,Female,Moderate,Conflict,Moderate Stress,Negative,High,5,No,High Risk
+YTH0052,29,Male,High,Neutral,Stable,Positive,Moderate,5,No,Moderate Risk
+YTH0053,22,Female,Moderate,Neutral,Stable,Positive,High,1,Yes,Moderate Risk
+YTH0054,19,Male,Moderate,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH0055,16,Male,High,Supportive,High Stress,Negative,Low,5,No,Moderate Risk
+YTH0056,30,Male,High,Supportive,Stable,Negative,High,5,Yes,Moderate Risk
+YTH0057,30,Male,Low,Neutral,Stable,Neutral,High,2,No,Moderate Risk
+YTH0058,19,Male,High,Neutral,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0059,16,Female,Moderate,Supportive,Stable,Negative,Moderate,4,No,Moderate Risk
+YTH0060,17,Female,Low,Neutral,High Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH0061,22,Male,High,Neutral,Stable,Neutral,Low,2,No,Moderate Risk
+YTH0062,23,Female,Low,Neutral,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0063,15,Female,Moderate,Conflict,Stable,Negative,Low,5,Yes,Moderate Risk
+YTH0064,18,Female,High,Neutral,Stable,Negative,High,3,No,High Risk
+YTH0065,26,Male,Moderate,Supportive,High Stress,Negative,Low,3,No,Moderate Risk
+YTH0066,19,Female,Low,Neutral,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH0067,28,Female,Moderate,Supportive,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0068,25,Male,Moderate,Supportive,Moderate Stress,Positive,Low,3,No,Low Risk
+YTH0069,15,Male,Low,Neutral,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0070,15,Male,Low,Supportive,Stable,Neutral,Moderate,5,No,Low Risk
+YTH0071,28,Female,Moderate,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0072,20,Male,Low,Neutral,Moderate Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH0073,21,Female,Low,Supportive,Stable,Neutral,Low,1,No,Low Risk
+YTH0074,19,Female,Low,Supportive,Stable,Neutral,Low,1,No,Low Risk
+YTH0075,30,Male,High,Supportive,Stable,Neutral,Low,2,No,Moderate Risk
+YTH0076,17,Male,Low,Conflict,Moderate Stress,Negative,Low,5,No,Moderate Risk
+YTH0077,29,Female,Low,Neutral,Moderate Stress,Neutral,Low,1,Yes,Low Risk
+YTH0078,21,Female,Moderate,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0079,24,Male,Low,Neutral,Moderate Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0080,28,Male,Moderate,Neutral,High Stress,Negative,Low,2,No,High Risk
+YTH0081,24,Female,Low,Neutral,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0082,17,Male,High,Neutral,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0083,23,Male,High,Supportive,Moderate Stress,Neutral,Low,5,No,Moderate Risk
+YTH0084,30,Male,Moderate,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0085,24,Female,High,Neutral,Moderate Stress,Positive,Low,4,Yes,Low Risk
+YTH0086,29,Female,Low,Neutral,Moderate Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0087,23,Male,High,Supportive,Moderate Stress,Positive,High,5,Yes,Moderate Risk
+YTH0088,20,Female,Moderate,Neutral,Stable,Negative,High,4,Yes,Moderate Risk
+YTH0089,19,Female,High,Supportive,Moderate Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0090,29,Male,Moderate,Conflict,Moderate Stress,Negative,High,3,No,High Risk
+YTH0091,25,Female,High,Supportive,Stable,Neutral,High,4,Yes,Moderate Risk
+YTH0092,29,Female,Moderate,Neutral,Moderate Stress,Neutral,Low,2,Yes,Moderate Risk
+YTH0093,27,Male,High,Supportive,Stable,Neutral,High,4,No,Moderate Risk
+YTH0094,19,Female,High,Supportive,High Stress,Positive,Low,4,Yes,Low Risk
+YTH0095,29,Male,High,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0096,27,Male,High,Conflict,High Stress,Positive,Low,4,Yes,Moderate Risk
+YTH0097,17,Male,Moderate,Conflict,High Stress,Neutral,Moderate,1,Yes,High Risk
+YTH0098,29,Male,Moderate,Conflict,Stable,Negative,Low,3,No,Moderate Risk
+YTH0099,19,Male,Moderate,Neutral,High Stress,Positive,Low,4,Yes,Low Risk
+YTH0100,30,Male,Low,Neutral,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH0101,20,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0102,24,Male,High,Conflict,Stable,Positive,Moderate,3,No,Moderate Risk
+YTH0103,15,Female,Low,Neutral,Moderate Stress,Neutral,Low,5,No,Low Risk
+YTH0104,24,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0105,16,Female,High,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH0106,20,Male,Low,Neutral,High Stress,Neutral,High,2,No,High Risk
+YTH0107,30,Female,High,Supportive,Stable,Negative,Low,2,No,Moderate Risk
+YTH0108,26,Male,High,Supportive,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0109,26,Male,Moderate,Neutral,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0110,17,Female,High,Supportive,Moderate Stress,Positive,High,3,No,Moderate Risk
+YTH0111,18,Male,Low,Neutral,Stable,Positive,High,5,No,Low Risk
+YTH0112,19,Female,Moderate,Conflict,Moderate Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0113,29,Female,High,Conflict,Stable,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0114,27,Female,Low,Supportive,High Stress,Neutral,Moderate,5,Yes,Low Risk
+YTH0115,16,Female,Low,Supportive,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH0116,22,Female,High,Conflict,Moderate Stress,Positive,High,2,No,High Risk
+YTH0117,20,Male,Moderate,Supportive,Stable,Negative,Low,3,Yes,Low Risk
+YTH0118,20,Female,Low,Neutral,Moderate Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0119,29,Male,High,Supportive,High Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH0120,16,Female,High,Supportive,Stable,Neutral,Moderate,1,No,Moderate Risk
+YTH0121,19,Male,Low,Neutral,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0122,29,Female,Low,Neutral,High Stress,Neutral,High,2,No,High Risk
+YTH0123,29,Male,Moderate,Conflict,Stable,Neutral,Low,3,No,Moderate Risk
+YTH0124,26,Male,Moderate,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0125,16,Female,Moderate,Supportive,High Stress,Negative,Moderate,1,No,High Risk
+YTH0126,24,Female,Low,Neutral,Stable,Neutral,High,3,No,Moderate Risk
+YTH0127,18,Female,Moderate,Conflict,High Stress,Negative,High,5,Yes,High Risk
+YTH0128,23,Male,Low,Neutral,Stable,Positive,Low,2,No,Low Risk
+YTH0129,17,Male,High,Conflict,Stable,Neutral,Moderate,4,No,Moderate Risk
+YTH0130,20,Female,Moderate,Supportive,High Stress,Neutral,High,2,Yes,High Risk
+YTH0131,16,Male,Low,Neutral,Moderate Stress,Neutral,Low,5,Yes,Low Risk
+YTH0132,26,Female,Low,Neutral,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH0133,16,Male,Low,Conflict,High Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0134,30,Female,Low,Supportive,Moderate Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0135,27,Male,Moderate,Neutral,Stable,Positive,Moderate,4,No,Low Risk
+YTH0136,24,Male,Moderate,Conflict,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0137,28,Male,Low,Neutral,Moderate Stress,Positive,Low,3,Yes,Low Risk
+YTH0138,25,Male,Low,Neutral,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0139,22,Male,Low,Supportive,Moderate Stress,Negative,Moderate,2,No,Moderate Risk
+YTH0140,29,Female,Moderate,Conflict,Moderate Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0141,29,Male,Moderate,Neutral,High Stress,Neutral,Moderate,1,No,High Risk
+YTH0142,29,Female,Low,Supportive,Stable,Neutral,High,1,No,Moderate Risk
+YTH0143,29,Male,Moderate,Conflict,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0144,29,Male,High,Conflict,High Stress,Positive,Moderate,1,Yes,High Risk
+YTH0145,29,Female,Moderate,Neutral,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0146,25,Male,Moderate,Neutral,Stable,Positive,High,5,Yes,Moderate Risk
+YTH0147,25,Male,Moderate,Supportive,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH0148,17,Female,Moderate,Neutral,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0149,28,Female,Low,Supportive,High Stress,Positive,High,2,Yes,Moderate Risk
+YTH0150,19,Male,Low,Conflict,Stable,Negative,High,5,Yes,Moderate Risk
+YTH0151,25,Male,Moderate,Supportive,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH0152,16,Female,Moderate,Neutral,High Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0153,22,Female,High,Conflict,High Stress,Positive,Moderate,5,No,High Risk
+YTH0154,29,Female,High,Neutral,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0155,23,Male,Moderate,Conflict,Moderate Stress,Positive,High,1,No,High Risk
+YTH0156,17,Male,Low,Conflict,Stable,Neutral,High,2,No,Moderate Risk
+YTH0157,26,Male,Moderate,Supportive,Stable,Positive,Low,2,Yes,Low Risk
+YTH0158,25,Male,High,Neutral,High Stress,Positive,Low,4,Yes,Moderate Risk
+YTH0159,30,Female,Moderate,Conflict,Stable,Positive,Low,5,No,Low Risk
+YTH0160,18,Female,Low,Supportive,Stable,Neutral,Moderate,1,Yes,Low Risk
+YTH0161,30,Male,Moderate,Neutral,Moderate Stress,Positive,Low,3,Yes,Low Risk
+YTH0162,28,Male,Moderate,Supportive,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0163,27,Female,Low,Supportive,Stable,Neutral,Moderate,1,No,Low Risk
+YTH0164,22,Male,High,Neutral,Stable,Positive,Moderate,2,No,Moderate Risk
+YTH0165,30,Male,High,Supportive,High Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH0166,16,Female,High,Neutral,High Stress,Neutral,Low,2,No,Moderate Risk
+YTH0167,26,Male,High,Supportive,Stable,Positive,High,4,No,Moderate Risk
+YTH0168,25,Male,Moderate,Neutral,High Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0169,28,Male,Moderate,Supportive,Stable,Neutral,Low,5,No,Low Risk
+YTH0170,20,Female,Moderate,Supportive,High Stress,Positive,High,3,Yes,Moderate Risk
+YTH0171,17,Female,Moderate,Conflict,Moderate Stress,Negative,Low,5,No,Moderate Risk
+YTH0172,16,Male,Low,Conflict,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0173,29,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0174,18,Male,High,Neutral,Stable,Neutral,Low,3,No,Low Risk
+YTH0175,21,Female,Moderate,Conflict,Stable,Positive,Low,2,No,Moderate Risk
+YTH0176,17,Female,Moderate,Neutral,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0177,26,Male,Low,Supportive,Stable,Negative,Low,5,No,Low Risk
+YTH0178,29,Male,Moderate,Supportive,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH0179,28,Male,Low,Supportive,Stable,Neutral,Moderate,2,Yes,Low Risk
+YTH0180,19,Female,Moderate,Conflict,High Stress,Neutral,Low,2,No,High Risk
+YTH0181,22,Female,High,Neutral,Stable,Positive,Low,5,No,Low Risk
+YTH0182,19,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,No,Moderate Risk
+YTH0183,16,Male,Low,Conflict,High Stress,Positive,Low,5,No,Moderate Risk
+YTH0184,15,Female,High,Neutral,Moderate Stress,Positive,Low,4,No,Moderate Risk
+YTH0185,29,Male,Moderate,Supportive,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH0186,25,Female,High,Supportive,Stable,Neutral,Low,4,Yes,Low Risk
+YTH0187,23,Female,Low,Supportive,Stable,Positive,Moderate,2,Yes,Low Risk
+YTH0188,25,Female,Low,Supportive,High Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0189,17,Female,Moderate,Conflict,Stable,Positive,Low,4,No,Low Risk
+YTH0190,24,Male,High,Supportive,High Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0191,27,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0192,18,Male,High,Supportive,High Stress,Positive,High,2,Yes,High Risk
+YTH0193,27,Male,Low,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0194,25,Female,Low,Conflict,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH0195,24,Female,High,Supportive,Moderate Stress,Negative,Moderate,1,No,High Risk
+YTH0196,23,Male,High,Neutral,Stable,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0197,22,Male,Moderate,Neutral,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH0198,28,Female,High,Neutral,Stable,Positive,Low,3,No,Low Risk
+YTH0199,27,Female,High,Neutral,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0200,21,Male,Low,Supportive,High Stress,Negative,High,2,No,High Risk
+YTH0201,25,Female,Moderate,Conflict,High Stress,Positive,Low,5,No,Moderate Risk
+YTH0202,27,Female,High,Conflict,Stable,Positive,Moderate,3,No,Moderate Risk
+YTH0203,23,Female,Low,Conflict,Stable,Neutral,Low,1,Yes,Low Risk
+YTH0204,22,Male,Moderate,Neutral,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0205,19,Male,High,Conflict,Stable,Neutral,High,4,No,High Risk
+YTH0206,21,Female,Moderate,Neutral,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0207,20,Female,High,Supportive,High Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH0208,24,Male,Low,Neutral,Stable,Negative,Low,5,No,Low Risk
+YTH0209,19,Female,Low,Conflict,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0210,25,Female,Moderate,Conflict,Stable,Negative,High,4,No,High Risk
+YTH0211,17,Female,Moderate,Supportive,Stable,Positive,Low,3,No,Low Risk
+YTH0212,22,Female,High,Conflict,Stable,Neutral,Low,3,Yes,Moderate Risk
+YTH0213,16,Male,Moderate,Supportive,Moderate Stress,Negative,High,3,Yes,Moderate Risk
+YTH0214,24,Female,Moderate,Supportive,Stable,Positive,Moderate,5,No,Low Risk
+YTH0215,28,Female,High,Conflict,High Stress,Negative,Moderate,5,Yes,High Risk
+YTH0216,29,Female,Low,Neutral,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0217,20,Female,High,Supportive,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0218,16,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0219,27,Female,High,Neutral,Moderate Stress,Positive,Low,1,Yes,Moderate Risk
+YTH0220,17,Female,Low,Supportive,High Stress,Negative,High,4,No,Moderate Risk
+YTH0221,27,Female,High,Conflict,Stable,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0222,26,Male,Low,Neutral,Moderate Stress,Neutral,Low,1,Yes,Low Risk
+YTH0223,24,Female,Moderate,Neutral,Moderate Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0224,23,Male,High,Neutral,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0225,21,Male,Low,Supportive,Moderate Stress,Neutral,Low,1,No,Low Risk
+YTH0226,29,Male,Moderate,Conflict,High Stress,Positive,High,2,No,High Risk
+YTH0227,25,Male,Moderate,Supportive,Moderate Stress,Positive,Low,1,Yes,Low Risk
+YTH0228,28,Female,Low,Supportive,Moderate Stress,Positive,Moderate,4,No,Low Risk
+YTH0229,19,Female,Moderate,Conflict,Moderate Stress,Negative,Low,2,No,High Risk
+YTH0230,16,Female,High,Neutral,Stable,Positive,Low,1,No,Moderate Risk
+YTH0231,26,Male,Moderate,Conflict,Stable,Positive,Moderate,1,Yes,Moderate Risk
+YTH0232,21,Male,Moderate,Conflict,Stable,Negative,Low,2,Yes,Moderate Risk
+YTH0233,30,Male,Moderate,Neutral,Stable,Positive,Low,3,No,Low Risk
+YTH0234,29,Female,Moderate,Supportive,High Stress,Neutral,High,4,No,Moderate Risk
+YTH0235,21,Female,Moderate,Supportive,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH0236,24,Male,Low,Supportive,Moderate Stress,Positive,Moderate,3,No,Low Risk
+YTH0237,30,Female,Moderate,Neutral,Stable,Positive,Moderate,2,Yes,Moderate Risk
+YTH0238,16,Male,High,Neutral,High Stress,Neutral,High,2,Yes,High Risk
+YTH0239,19,Male,Low,Neutral,Stable,Neutral,High,4,No,Moderate Risk
+YTH0240,15,Male,Moderate,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH0241,28,Male,Low,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH0242,27,Male,Moderate,Supportive,Moderate Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0243,17,Female,Moderate,Neutral,Stable,Positive,Low,4,No,Low Risk
+YTH0244,25,Male,High,Conflict,Stable,Negative,Moderate,5,No,High Risk
+YTH0245,23,Male,High,Neutral,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH0246,15,Male,Moderate,Conflict,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0247,27,Female,Moderate,Neutral,High Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH0248,18,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0249,23,Female,Moderate,Supportive,High Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0250,24,Male,High,Supportive,Stable,Neutral,Moderate,4,No,Moderate Risk
+YTH0251,26,Male,Low,Conflict,Moderate Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0252,28,Female,Moderate,Neutral,Stable,Positive,Moderate,5,No,Low Risk
+YTH0253,27,Male,Low,Supportive,Stable,Negative,High,2,Yes,Moderate Risk
+YTH0254,27,Male,Low,Supportive,Moderate Stress,Positive,Moderate,4,No,Low Risk
+YTH0255,30,Male,Moderate,Conflict,Moderate Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0256,19,Female,Low,Supportive,High Stress,Positive,High,4,No,Moderate Risk
+YTH0257,28,Male,Moderate,Neutral,Moderate Stress,Neutral,Low,4,No,Moderate Risk
+YTH0258,24,Female,High,Conflict,Stable,Positive,High,3,Yes,Moderate Risk
+YTH0259,21,Male,Moderate,Neutral,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0260,17,Female,Moderate,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0261,17,Female,High,Neutral,Moderate Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0262,26,Male,Low,Supportive,Moderate Stress,Positive,Moderate,5,No,Low Risk
+YTH0263,25,Female,Low,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0264,29,Female,Moderate,Conflict,Moderate Stress,Neutral,Low,1,No,Moderate Risk
+YTH0265,18,Female,Moderate,Conflict,Stable,Negative,Low,3,No,Moderate Risk
+YTH0266,29,Male,Moderate,Supportive,Stable,Neutral,Moderate,1,No,Moderate Risk
+YTH0267,16,Male,Low,Supportive,Stable,Negative,High,2,Yes,Moderate Risk
+YTH0268,20,Female,Moderate,Conflict,Stable,Neutral,Low,4,No,Moderate Risk
+YTH0269,15,Male,Moderate,Supportive,Stable,Positive,Low,1,Yes,Low Risk
+YTH0270,20,Female,Moderate,Neutral,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH0271,27,Male,Moderate,Conflict,Moderate Stress,Negative,Moderate,3,Yes,High Risk
+YTH0272,19,Female,Low,Supportive,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH0273,27,Female,Low,Neutral,Moderate Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0274,30,Female,Low,Supportive,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0275,19,Male,High,Conflict,Moderate Stress,Neutral,Moderate,4,No,High Risk
+YTH0276,30,Male,Low,Supportive,High Stress,Positive,Low,5,No,Low Risk
+YTH0277,20,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0278,16,Female,Moderate,Conflict,Stable,Negative,High,3,Yes,High Risk
+YTH0279,29,Female,Moderate,Conflict,Moderate Stress,Negative,High,2,Yes,High Risk
+YTH0280,26,Female,Low,Supportive,Stable,Positive,Low,3,No,Low Risk
+YTH0281,20,Female,High,Supportive,Moderate Stress,Negative,Moderate,1,Yes,High Risk
+YTH0282,28,Male,High,Conflict,Stable,Negative,Low,3,Yes,Moderate Risk
+YTH0283,27,Female,Low,Neutral,Moderate Stress,Positive,Low,1,No,Low Risk
+YTH0284,23,Female,Moderate,Neutral,Moderate Stress,Negative,High,1,No,High Risk
+YTH0285,26,Male,High,Supportive,High Stress,Negative,Moderate,3,No,High Risk
+YTH0286,25,Male,Moderate,Neutral,Stable,Neutral,Low,1,No,Moderate Risk
+YTH0287,15,Male,High,Supportive,Moderate Stress,Negative,Moderate,2,No,High Risk
+YTH0288,20,Female,Low,Supportive,Stable,Neutral,Moderate,1,No,Low Risk
+YTH0289,24,Male,Moderate,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH0290,29,Male,Low,Supportive,Stable,Negative,Moderate,4,Yes,Low Risk
+YTH0291,22,Female,Low,Conflict,Stable,Positive,Low,4,Yes,Low Risk
+YTH0292,19,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,No,Moderate Risk
+YTH0293,29,Male,Low,Supportive,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0294,19,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0295,21,Male,High,Supportive,Stable,Negative,High,4,No,Moderate Risk
+YTH0296,18,Male,Moderate,Neutral,Moderate Stress,Negative,High,3,Yes,High Risk
+YTH0297,27,Female,Moderate,Neutral,High Stress,Negative,High,1,Yes,High Risk
+YTH0298,15,Female,Low,Conflict,High Stress,Positive,Low,5,No,Moderate Risk
+YTH0299,28,Female,Low,Neutral,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0300,19,Female,Moderate,Neutral,High Stress,Neutral,Low,4,Yes,Moderate Risk
+YTH0301,16,Male,Low,Supportive,Moderate Stress,Neutral,Low,2,Yes,Low Risk
+YTH0302,15,Male,High,Supportive,High Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0303,26,Male,High,Conflict,Moderate Stress,Positive,High,3,No,High Risk
+YTH0304,23,Male,Low,Conflict,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0305,20,Female,Low,Conflict,High Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH0306,16,Male,Low,Neutral,Stable,Positive,High,1,No,Moderate Risk
+YTH0307,22,Female,Low,Conflict,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0308,20,Male,High,Conflict,High Stress,Positive,Moderate,3,No,High Risk
+YTH0309,25,Male,Moderate,Supportive,Stable,Neutral,Low,5,Yes,Low Risk
+YTH0310,29,Female,Moderate,Neutral,High Stress,Positive,High,2,Yes,High Risk
+YTH0311,15,Female,Low,Neutral,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH0312,27,Female,Low,Neutral,Stable,Neutral,Low,2,No,Low Risk
+YTH0313,17,Male,High,Conflict,Moderate Stress,Neutral,Moderate,1,Yes,High Risk
+YTH0314,19,Female,Low,Neutral,Moderate Stress,Negative,Low,3,No,Moderate Risk
+YTH0315,27,Female,Moderate,Supportive,Stable,Positive,High,5,Yes,Low Risk
+YTH0316,19,Male,Low,Neutral,Moderate Stress,Neutral,High,2,No,Moderate Risk
+YTH0317,24,Female,Low,Supportive,Stable,Neutral,High,5,Yes,Low Risk
+YTH0318,21,Female,Low,Neutral,High Stress,Positive,Low,3,No,Low Risk
+YTH0319,20,Male,High,Conflict,Moderate Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH0320,18,Male,Low,Conflict,Stable,Positive,Moderate,1,No,Moderate Risk
+YTH0321,17,Male,High,Supportive,Moderate Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0322,16,Female,Low,Conflict,Moderate Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0323,20,Female,Low,Supportive,Stable,Negative,Low,5,Yes,Low Risk
+YTH0324,24,Female,Moderate,Neutral,Stable,Positive,Low,2,Yes,Low Risk
+YTH0325,15,Female,High,Supportive,Moderate Stress,Neutral,High,5,No,Moderate Risk
+YTH0326,27,Female,Low,Supportive,Stable,Negative,High,1,No,Moderate Risk
+YTH0327,26,Male,High,Supportive,Moderate Stress,Positive,High,1,Yes,Moderate Risk
+YTH0328,27,Female,High,Conflict,Stable,Positive,Low,3,Yes,Low Risk
+YTH0329,26,Male,Moderate,Supportive,High Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH0330,30,Male,Low,Supportive,Stable,Neutral,Low,5,Yes,Low Risk
+YTH0331,19,Female,High,Conflict,High Stress,Positive,Low,5,Yes,Moderate Risk
+YTH0332,18,Female,High,Supportive,High Stress,Positive,Low,3,No,Moderate Risk
+YTH0333,19,Male,High,Supportive,Moderate Stress,Neutral,Low,5,No,Moderate Risk
+YTH0334,22,Male,Moderate,Neutral,Stable,Positive,Low,5,No,Low Risk
+YTH0335,16,Male,Moderate,Conflict,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0336,25,Male,Low,Conflict,Stable,Negative,Low,3,No,Moderate Risk
+YTH0337,15,Female,Low,Neutral,Stable,Negative,Moderate,1,No,Moderate Risk
+YTH0338,29,Female,High,Conflict,Moderate Stress,Positive,Moderate,1,No,High Risk
+YTH0339,22,Male,Moderate,Conflict,Stable,Positive,Low,1,Yes,Moderate Risk
+YTH0340,25,Male,High,Supportive,Stable,Negative,High,3,No,Moderate Risk
+YTH0341,15,Female,High,Supportive,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0342,28,Female,Moderate,Supportive,Stable,Positive,Moderate,4,Yes,Low Risk
+YTH0343,16,Female,Low,Supportive,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0344,21,Male,Moderate,Conflict,Moderate Stress,Positive,High,4,No,High Risk
+YTH0345,23,Male,Moderate,Supportive,Stable,Positive,Low,1,No,Low Risk
+YTH0346,29,Female,Low,Conflict,Moderate Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH0347,26,Female,High,Neutral,Moderate Stress,Negative,High,4,No,High Risk
+YTH0348,22,Female,Low,Supportive,High Stress,Positive,Moderate,5,Yes,Low Risk
+YTH0349,18,Female,Low,Conflict,High Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0350,28,Male,High,Neutral,High Stress,Positive,High,1,Yes,High Risk
+YTH0351,27,Female,Moderate,Conflict,Moderate Stress,Negative,Low,5,No,Moderate Risk
+YTH0352,18,Female,Low,Neutral,Moderate Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0353,24,Female,High,Supportive,Moderate Stress,Neutral,Moderate,2,No,Moderate Risk
+YTH0354,27,Male,Moderate,Neutral,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH0355,30,Female,High,Supportive,High Stress,Positive,Low,4,Yes,Low Risk
+YTH0356,22,Male,Moderate,Neutral,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0357,21,Female,Low,Conflict,Moderate Stress,Negative,High,1,Yes,High Risk
+YTH0358,17,Female,High,Supportive,High Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0359,21,Male,Low,Neutral,High Stress,Neutral,Low,4,No,Low Risk
+YTH0360,18,Male,Low,Neutral,Moderate Stress,Negative,Moderate,5,No,Moderate Risk
+YTH0361,26,Male,High,Supportive,High Stress,Positive,Low,1,Yes,Moderate Risk
+YTH0362,21,Male,Moderate,Neutral,Stable,Neutral,Low,1,No,Moderate Risk
+YTH0363,19,Male,Moderate,Supportive,Stable,Negative,Low,3,No,Low Risk
+YTH0364,27,Female,Moderate,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0365,15,Female,Moderate,Neutral,Stable,Neutral,Moderate,3,No,Moderate Risk
+YTH0366,25,Female,Low,Neutral,High Stress,Positive,Low,2,Yes,Low Risk
+YTH0367,27,Female,Moderate,Neutral,Moderate Stress,Negative,Low,4,No,Moderate Risk
+YTH0368,27,Male,Moderate,Conflict,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0369,26,Female,High,Conflict,High Stress,Positive,Low,2,No,High Risk
+YTH0370,20,Female,Moderate,Supportive,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH0371,23,Female,Moderate,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0372,30,Male,Moderate,Conflict,Stable,Positive,Low,2,Yes,Moderate Risk
+YTH0373,21,Female,Moderate,Neutral,High Stress,Neutral,Low,2,Yes,Moderate Risk
+YTH0374,30,Female,Moderate,Supportive,Moderate Stress,Positive,Low,2,Yes,Low Risk
+YTH0375,30,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0376,21,Female,High,Conflict,High Stress,Neutral,Low,1,Yes,High Risk
+YTH0377,22,Female,Moderate,Supportive,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH0378,24,Female,High,Neutral,Stable,Negative,High,3,No,High Risk
+YTH0379,26,Male,Low,Conflict,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0380,15,Male,Low,Neutral,High Stress,Positive,Moderate,5,Yes,Low Risk
+YTH0381,16,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0382,30,Male,Low,Neutral,Stable,Neutral,Low,5,No,Low Risk
+YTH0383,19,Female,High,Supportive,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH0384,21,Male,High,Conflict,High Stress,Positive,Moderate,2,Yes,High Risk
+YTH0385,30,Male,Moderate,Neutral,Stable,Positive,Low,1,No,Low Risk
+YTH0386,19,Male,High,Supportive,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0387,23,Female,Low,Conflict,High Stress,Negative,Moderate,3,No,High Risk
+YTH0388,18,Male,High,Conflict,Stable,Positive,Moderate,3,No,Moderate Risk
+YTH0389,29,Female,High,Supportive,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0390,27,Female,High,Neutral,High Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH0391,18,Female,High,Neutral,Moderate Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0392,19,Female,High,Supportive,Moderate Stress,Positive,Low,3,Yes,Low Risk
+YTH0393,22,Female,Moderate,Neutral,Moderate Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0394,27,Male,High,Neutral,High Stress,Positive,Moderate,2,No,High Risk
+YTH0395,30,Male,Low,Neutral,Stable,Negative,Low,2,No,Moderate Risk
+YTH0396,27,Male,Low,Supportive,Moderate Stress,Positive,Moderate,3,Yes,Low Risk
+YTH0397,30,Male,Low,Supportive,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH0398,21,Female,High,Supportive,Stable,Positive,Moderate,5,No,Low Risk
+YTH0399,26,Female,Low,Conflict,Stable,Positive,High,3,No,Moderate Risk
+YTH0400,18,Male,High,Neutral,High Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0401,21,Male,High,Supportive,Moderate Stress,Negative,Moderate,1,No,High Risk
+YTH0402,16,Male,High,Neutral,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0403,16,Female,High,Neutral,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0404,19,Male,Moderate,Neutral,High Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0405,23,Female,High,Conflict,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0406,25,Male,Low,Neutral,Stable,Positive,Moderate,2,No,Low Risk
+YTH0407,18,Female,Moderate,Neutral,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0408,28,Male,Moderate,Supportive,Stable,Neutral,Low,2,No,Low Risk
+YTH0409,23,Male,High,Neutral,Stable,Negative,Low,4,Yes,Moderate Risk
+YTH0410,22,Female,Low,Conflict,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0411,28,Female,High,Supportive,Moderate Stress,Positive,High,4,Yes,Moderate Risk
+YTH0412,26,Male,High,Conflict,Stable,Positive,Moderate,2,Yes,Moderate Risk
+YTH0413,18,Female,Low,Supportive,Stable,Positive,High,1,No,Moderate Risk
+YTH0414,29,Male,Low,Conflict,Moderate Stress,Negative,Moderate,3,No,Moderate Risk
+YTH0415,26,Male,High,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH0416,28,Female,Low,Supportive,Stable,Positive,Moderate,2,No,Low Risk
+YTH0417,15,Male,Moderate,Supportive,High Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0418,27,Male,Moderate,Neutral,Stable,Negative,High,3,No,Moderate Risk
+YTH0419,30,Male,Low,Neutral,Stable,Positive,Low,5,Yes,Low Risk
+YTH0420,17,Male,Moderate,Conflict,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH0421,17,Male,Low,Neutral,Stable,Positive,Low,3,Yes,Low Risk
+YTH0422,22,Female,Moderate,Neutral,Moderate Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH0423,17,Male,High,Supportive,High Stress,Positive,High,3,Yes,Moderate Risk
+YTH0424,24,Female,Moderate,Conflict,Stable,Positive,Low,4,No,Low Risk
+YTH0425,19,Female,Moderate,Conflict,High Stress,Neutral,Moderate,1,Yes,High Risk
+YTH0426,18,Male,Low,Neutral,Moderate Stress,Negative,Low,3,Yes,Low Risk
+YTH0427,28,Male,Low,Supportive,High Stress,Positive,Low,5,Yes,Low Risk
+YTH0428,29,Male,Low,Supportive,Stable,Neutral,Moderate,3,No,Low Risk
+YTH0429,19,Male,Low,Neutral,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0430,19,Female,High,Conflict,Stable,Positive,High,4,No,Moderate Risk
+YTH0431,26,Male,Moderate,Supportive,Moderate Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0432,20,Male,High,Conflict,Stable,Neutral,Low,1,Yes,Moderate Risk
+YTH0433,15,Male,High,Neutral,High Stress,Positive,Low,3,No,Moderate Risk
+YTH0434,19,Female,Moderate,Conflict,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0435,27,Female,Moderate,Neutral,High Stress,Negative,Moderate,2,Yes,High Risk
+YTH0436,29,Male,Low,Conflict,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0437,16,Male,High,Supportive,Stable,Positive,Moderate,5,No,Low Risk
+YTH0438,27,Female,High,Conflict,Stable,Neutral,Low,5,No,Moderate Risk
+YTH0439,23,Male,Moderate,Supportive,Moderate Stress,Negative,Low,3,No,Moderate Risk
+YTH0440,22,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0441,29,Male,Low,Neutral,Stable,Positive,Low,5,Yes,Low Risk
+YTH0442,22,Female,High,Neutral,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH0443,15,Male,Low,Neutral,Stable,Neutral,Low,5,Yes,Low Risk
+YTH0444,16,Male,Low,Supportive,High Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0445,17,Male,Moderate,Conflict,High Stress,Positive,High,5,Yes,High Risk
+YTH0446,20,Female,Low,Neutral,High Stress,Neutral,Low,4,No,Low Risk
+YTH0447,19,Male,Low,Neutral,High Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0448,20,Female,High,Neutral,High Stress,Neutral,High,1,No,High Risk
+YTH0449,19,Male,High,Conflict,Moderate Stress,Neutral,Moderate,1,No,High Risk
+YTH0450,22,Female,High,Supportive,Moderate Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0451,28,Male,Low,Conflict,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0452,23,Male,Low,Neutral,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH0453,25,Female,Moderate,Supportive,Moderate Stress,Positive,High,4,No,Moderate Risk
+YTH0454,23,Female,High,Supportive,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0455,23,Female,Moderate,Conflict,Stable,Positive,High,1,Yes,Moderate Risk
+YTH0456,29,Male,Low,Neutral,High Stress,Negative,Moderate,1,Yes,Moderate Risk
+YTH0457,27,Male,High,Conflict,Moderate Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH0458,26,Male,Moderate,Neutral,High Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0459,20,Female,Moderate,Supportive,Moderate Stress,Negative,Low,1,Yes,Moderate Risk
+YTH0460,20,Male,Moderate,Neutral,High Stress,Positive,Low,4,No,Moderate Risk
+YTH0461,27,Female,Moderate,Neutral,Moderate Stress,Positive,Low,3,No,Low Risk
+YTH0462,26,Female,Low,Conflict,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH0463,18,Male,Moderate,Supportive,Stable,Neutral,Low,5,No,Low Risk
+YTH0464,29,Female,Moderate,Conflict,High Stress,Negative,Moderate,4,Yes,High Risk
+YTH0465,30,Male,Low,Supportive,High Stress,Positive,Moderate,3,No,Low Risk
+YTH0466,26,Male,High,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0467,20,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH0468,21,Male,High,Conflict,Stable,Positive,Low,5,No,Moderate Risk
+YTH0469,19,Male,Low,Supportive,High Stress,Neutral,Low,5,Yes,Low Risk
+YTH0470,30,Female,Moderate,Neutral,High Stress,Negative,High,4,Yes,High Risk
+YTH0471,23,Female,Low,Neutral,Stable,Negative,Moderate,5,Yes,Low Risk
+YTH0472,26,Female,High,Conflict,Moderate Stress,Positive,Moderate,3,Yes,Moderate Risk
+YTH0473,15,Male,Moderate,Supportive,Stable,Negative,Low,3,Yes,Low Risk
+YTH0474,23,Female,High,Supportive,Stable,Neutral,Moderate,3,No,Moderate Risk
+YTH0475,27,Female,Moderate,Neutral,High Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0476,28,Female,Low,Conflict,Moderate Stress,Neutral,Low,4,No,Moderate Risk
+YTH0477,19,Female,High,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0478,21,Female,Moderate,Neutral,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0479,26,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0480,24,Female,Moderate,Neutral,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH0481,29,Male,High,Neutral,High Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0482,17,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0483,29,Female,High,Neutral,Moderate Stress,Positive,High,2,Yes,High Risk
+YTH0484,23,Male,Low,Supportive,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0485,27,Male,Low,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH0486,24,Female,Moderate,Supportive,High Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0487,29,Female,Moderate,Supportive,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0488,24,Female,Moderate,Supportive,Stable,Positive,Moderate,2,No,Moderate Risk
+YTH0489,15,Male,Moderate,Conflict,Stable,Positive,Moderate,4,No,Moderate Risk
+YTH0490,24,Male,High,Conflict,Moderate Stress,Negative,Moderate,2,No,High Risk
+YTH0491,28,Female,Low,Neutral,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH0492,22,Female,Low,Neutral,High Stress,Neutral,High,2,Yes,Moderate Risk
+YTH0493,24,Male,Moderate,Neutral,Stable,Neutral,Low,1,Yes,Low Risk
+YTH0494,16,Male,Low,Supportive,Stable,Neutral,Moderate,2,Yes,Low Risk
+YTH0495,19,Male,Moderate,Supportive,Stable,Negative,High,4,Yes,Moderate Risk
+YTH0496,25,Male,High,Conflict,Stable,Negative,Low,4,Yes,Moderate Risk
+YTH0497,21,Female,High,Conflict,Stable,Negative,Low,4,Yes,Moderate Risk
+YTH0498,16,Male,Moderate,Conflict,Moderate Stress,Negative,Moderate,3,No,High Risk
+YTH0499,20,Male,High,Neutral,Stable,Neutral,Low,3,Yes,Low Risk
+YTH0500,21,Male,Low,Supportive,Stable,Negative,Moderate,4,Yes,Low Risk
+YTH0501,15,Male,Moderate,Neutral,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH0502,30,Male,Moderate,Supportive,High Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0503,18,Male,Moderate,Supportive,Moderate Stress,Neutral,Low,4,Yes,Low Risk
+YTH0504,15,Female,Moderate,Supportive,High Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0505,21,Male,Moderate,Supportive,Moderate Stress,Negative,Moderate,5,Yes,Moderate Risk
+YTH0506,17,Male,Moderate,Conflict,Moderate Stress,Neutral,High,5,No,High Risk
+YTH0507,20,Male,Moderate,Supportive,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH0508,21,Female,High,Supportive,Stable,Neutral,Low,1,Yes,Low Risk
+YTH0509,16,Male,Low,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0510,23,Male,Moderate,Neutral,Stable,Negative,Low,4,Yes,Low Risk
+YTH0511,29,Male,Moderate,Neutral,High Stress,Negative,High,1,No,High Risk
+YTH0512,16,Male,High,Supportive,Stable,Neutral,Low,2,No,Moderate Risk
+YTH0513,21,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,4,Yes,Low Risk
+YTH0514,26,Female,High,Supportive,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH0515,20,Female,High,Conflict,Moderate Stress,Negative,High,4,No,High Risk
+YTH0516,25,Male,Moderate,Supportive,High Stress,Negative,Low,4,No,Moderate Risk
+YTH0517,27,Male,High,Conflict,Moderate Stress,Neutral,High,3,Yes,High Risk
+YTH0518,24,Male,Low,Supportive,High Stress,Negative,High,5,Yes,Moderate Risk
+YTH0519,18,Male,Moderate,Supportive,Stable,Negative,Low,3,No,Low Risk
+YTH0520,17,Female,Moderate,Supportive,Stable,Positive,Moderate,4,Yes,Low Risk
+YTH0521,24,Male,High,Neutral,Stable,Positive,High,3,No,Moderate Risk
+YTH0522,28,Male,High,Supportive,Moderate Stress,Neutral,Low,4,Yes,Low Risk
+YTH0523,24,Male,Moderate,Neutral,Stable,Neutral,Low,4,No,Low Risk
+YTH0524,17,Male,Moderate,Conflict,Stable,Positive,Moderate,1,No,Moderate Risk
+YTH0525,23,Male,Moderate,Supportive,Moderate Stress,Negative,Moderate,2,No,High Risk
+YTH0526,27,Male,Moderate,Conflict,Moderate Stress,Positive,Low,4,No,Moderate Risk
+YTH0527,17,Male,Moderate,Supportive,Stable,Positive,Moderate,1,No,Moderate Risk
+YTH0528,20,Female,Moderate,Conflict,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0529,26,Male,High,Conflict,Stable,Positive,High,2,No,High Risk
+YTH0530,15,Female,Moderate,Supportive,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0531,21,Female,Moderate,Neutral,High Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0532,23,Male,Low,Supportive,Moderate Stress,Positive,Moderate,1,Yes,Low Risk
+YTH0533,27,Female,Moderate,Conflict,Stable,Positive,Low,4,Yes,Low Risk
+YTH0534,27,Male,High,Neutral,Moderate Stress,Positive,Low,4,Yes,Low Risk
+YTH0535,16,Male,High,Supportive,Moderate Stress,Neutral,Low,3,No,Moderate Risk
+YTH0536,24,Male,High,Conflict,Stable,Positive,Low,4,Yes,Low Risk
+YTH0537,23,Male,Low,Conflict,Moderate Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0538,28,Male,Moderate,Supportive,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0539,19,Male,High,Supportive,Moderate Stress,Neutral,Low,2,Yes,Moderate Risk
+YTH0540,25,Male,Moderate,Conflict,Stable,Positive,High,1,No,High Risk
+YTH0541,28,Female,Moderate,Neutral,High Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0542,18,Male,Low,Conflict,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0543,22,Male,Moderate,Neutral,Moderate Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0544,27,Female,Moderate,Supportive,Stable,Neutral,High,3,No,Moderate Risk
+YTH0545,22,Male,High,Supportive,High Stress,Negative,High,4,No,High Risk
+YTH0546,29,Male,Moderate,Conflict,Moderate Stress,Negative,Moderate,4,Yes,High Risk
+YTH0547,18,Female,Moderate,Conflict,High Stress,Positive,Moderate,1,No,High Risk
+YTH0548,16,Male,Low,Supportive,Stable,Negative,Moderate,4,No,Low Risk
+YTH0549,16,Male,Moderate,Neutral,Stable,Neutral,Low,5,Yes,Low Risk
+YTH0550,27,Female,Moderate,Supportive,Moderate Stress,Negative,High,4,Yes,Moderate Risk
+YTH0551,23,Female,Moderate,Conflict,High Stress,Neutral,Low,1,No,High Risk
+YTH0552,26,Male,Moderate,Supportive,High Stress,Neutral,High,4,No,Moderate Risk
+YTH0553,16,Male,High,Neutral,Moderate Stress,Positive,High,2,Yes,High Risk
+YTH0554,28,Female,Moderate,Conflict,Moderate Stress,Neutral,Low,2,Yes,Moderate Risk
+YTH0555,15,Female,Low,Neutral,Moderate Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH0556,21,Female,Moderate,Supportive,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0557,16,Male,Low,Neutral,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH0558,25,Male,Low,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0559,29,Female,High,Supportive,Stable,Positive,Moderate,1,No,Moderate Risk
+YTH0560,17,Female,Moderate,Supportive,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0561,16,Male,Moderate,Conflict,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0562,28,Female,Low,Neutral,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0563,30,Male,High,Supportive,Stable,Positive,Low,4,Yes,Low Risk
+YTH0564,21,Female,Moderate,Supportive,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH0565,23,Male,Moderate,Neutral,Stable,Positive,Moderate,3,No,Low Risk
+YTH0566,15,Male,Low,Conflict,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0567,30,Male,Moderate,Conflict,Moderate Stress,Positive,High,4,Yes,Moderate Risk
+YTH0568,24,Female,Moderate,Supportive,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0569,19,Female,High,Supportive,Stable,Neutral,Low,5,No,Low Risk
+YTH0570,20,Male,High,Conflict,Moderate Stress,Positive,Low,4,Yes,Moderate Risk
+YTH0571,30,Male,Moderate,Conflict,Stable,Neutral,Low,3,Yes,Low Risk
+YTH0572,21,Male,Moderate,Supportive,Moderate Stress,Neutral,Low,4,No,Low Risk
+YTH0573,25,Male,High,Supportive,High Stress,Neutral,High,2,Yes,High Risk
+YTH0574,29,Female,High,Neutral,Stable,Negative,Moderate,5,Yes,Moderate Risk
+YTH0575,25,Female,High,Supportive,High Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH0576,25,Male,Low,Supportive,Stable,Neutral,Low,2,Yes,Low Risk
+YTH0577,23,Male,Low,Neutral,Moderate Stress,Positive,Moderate,3,No,Low Risk
+YTH0578,19,Female,Moderate,Supportive,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0579,15,Female,High,Supportive,Stable,Positive,Moderate,5,No,Low Risk
+YTH0580,26,Female,Moderate,Supportive,High Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0581,17,Female,Low,Supportive,Moderate Stress,Negative,Moderate,2,Yes,Moderate Risk
+YTH0582,23,Female,Moderate,Neutral,Moderate Stress,Negative,High,4,No,High Risk
+YTH0583,15,Male,Moderate,Supportive,Moderate Stress,Positive,High,5,Yes,Moderate Risk
+YTH0584,18,Female,High,Conflict,Stable,Neutral,High,5,No,High Risk
+YTH0585,27,Female,Low,Supportive,Stable,Neutral,Low,2,No,Low Risk
+YTH0586,28,Female,Moderate,Supportive,Moderate Stress,Positive,High,5,No,Moderate Risk
+YTH0587,18,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,5,Yes,Low Risk
+YTH0588,27,Female,Moderate,Neutral,Stable,Negative,High,1,Yes,High Risk
+YTH0589,19,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0590,24,Female,High,Conflict,High Stress,Neutral,Moderate,5,No,High Risk
+YTH0591,19,Female,Low,Conflict,High Stress,Positive,Moderate,3,Yes,Moderate Risk
+YTH0592,24,Male,Low,Neutral,Stable,Positive,Moderate,4,No,Low Risk
+YTH0593,21,Male,Moderate,Supportive,Stable,Negative,High,2,No,High Risk
+YTH0594,19,Male,Low,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH0595,19,Female,High,Conflict,Moderate Stress,Negative,Moderate,4,No,High Risk
+YTH0596,29,Female,Moderate,Supportive,Moderate Stress,Neutral,High,2,No,High Risk
+YTH0597,28,Female,Low,Supportive,Moderate Stress,Positive,Moderate,1,Yes,Low Risk
+YTH0598,23,Female,Moderate,Neutral,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0599,16,Female,Moderate,Supportive,Moderate Stress,Negative,Moderate,3,No,Moderate Risk
+YTH0600,26,Female,Low,Supportive,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0601,16,Female,Moderate,Neutral,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0602,30,Male,Low,Supportive,High Stress,Positive,Moderate,3,No,Low Risk
+YTH0603,15,Male,Moderate,Conflict,Moderate Stress,Neutral,Moderate,2,No,High Risk
+YTH0604,22,Female,Low,Neutral,Stable,Negative,High,5,Yes,Moderate Risk
+YTH0605,30,Female,High,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH0606,23,Male,Low,Neutral,Moderate Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0607,27,Female,Moderate,Supportive,High Stress,Positive,High,4,No,Moderate Risk
+YTH0608,25,Male,Low,Neutral,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH0609,23,Female,High,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0610,25,Male,Moderate,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0611,29,Female,Low,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH0612,18,Male,Low,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH0613,20,Female,Low,Neutral,Stable,Neutral,High,4,No,Moderate Risk
+YTH0614,23,Male,High,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH0615,20,Female,Low,Conflict,Stable,Positive,Moderate,1,Yes,Moderate Risk
+YTH0616,28,Male,Moderate,Supportive,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH0617,29,Male,High,Supportive,Moderate Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH0618,25,Female,Moderate,Neutral,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0619,15,Female,High,Conflict,Moderate Stress,Neutral,High,3,No,High Risk
+YTH0620,24,Female,Low,Conflict,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0621,29,Female,Moderate,Supportive,Stable,Positive,Low,4,Yes,Low Risk
+YTH0622,26,Female,Low,Neutral,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0623,30,Female,Low,Neutral,Stable,Neutral,High,4,Yes,Low Risk
+YTH0624,16,Female,Low,Conflict,Stable,Positive,High,5,No,Moderate Risk
+YTH0625,19,Male,High,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH0626,22,Male,Low,Neutral,High Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0627,17,Male,Low,Neutral,Moderate Stress,Positive,Low,3,No,Low Risk
+YTH0628,25,Male,High,Neutral,Stable,Negative,High,1,Yes,High Risk
+YTH0629,25,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,4,Yes,Low Risk
+YTH0630,16,Male,Low,Conflict,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0631,15,Male,Low,Supportive,Moderate Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH0632,21,Male,Moderate,Neutral,Moderate Stress,Negative,Moderate,1,Yes,High Risk
+YTH0633,30,Male,Moderate,Conflict,Stable,Positive,Low,1,Yes,Moderate Risk
+YTH0634,26,Male,Moderate,Neutral,Stable,Positive,Low,2,No,Low Risk
+YTH0635,30,Male,Low,Conflict,Stable,Positive,Low,3,No,Low Risk
+YTH0636,29,Male,Low,Supportive,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0637,17,Male,High,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0638,18,Female,Low,Supportive,Moderate Stress,Positive,High,1,No,Moderate Risk
+YTH0639,30,Male,High,Supportive,High Stress,Neutral,Moderate,2,No,High Risk
+YTH0640,21,Female,High,Supportive,Stable,Neutral,Low,2,Yes,Low Risk
+YTH0641,29,Female,Moderate,Conflict,Stable,Positive,Low,5,Yes,Low Risk
+YTH0642,22,Male,Moderate,Neutral,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0643,15,Female,High,Supportive,Stable,Neutral,High,5,Yes,Moderate Risk
+YTH0644,15,Female,High,Supportive,Moderate Stress,Negative,Low,5,No,Moderate Risk
+YTH0645,30,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0646,26,Female,Low,Conflict,Stable,Neutral,Low,4,Yes,Low Risk
+YTH0647,29,Female,High,Conflict,Moderate Stress,Negative,Moderate,4,Yes,High Risk
+YTH0648,17,Female,High,Supportive,Stable,Neutral,Low,5,Yes,Low Risk
+YTH0649,17,Female,High,Supportive,High Stress,Neutral,High,1,No,High Risk
+YTH0650,26,Female,Moderate,Supportive,Stable,Neutral,Low,2,Yes,Low Risk
+YTH0651,25,Male,Moderate,Neutral,Moderate Stress,Negative,High,2,Yes,High Risk
+YTH0652,25,Female,High,Neutral,Moderate Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0653,18,Female,High,Neutral,Moderate Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH0654,29,Male,Low,Conflict,Stable,Negative,Low,3,Yes,Low Risk
+YTH0655,19,Female,Low,Supportive,High Stress,Positive,Moderate,5,Yes,Low Risk
+YTH0656,30,Female,Moderate,Neutral,Stable,Positive,Low,2,No,Low Risk
+YTH0657,28,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0658,29,Female,Moderate,Conflict,Stable,Negative,Low,3,No,Moderate Risk
+YTH0659,16,Male,Moderate,Neutral,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0660,20,Male,Low,Supportive,High Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0661,21,Male,Moderate,Conflict,Stable,Neutral,High,5,No,Moderate Risk
+YTH0662,18,Male,Moderate,Neutral,Stable,Neutral,Low,1,No,Moderate Risk
+YTH0663,24,Female,High,Conflict,High Stress,Negative,Moderate,5,No,High Risk
+YTH0664,25,Male,High,Conflict,Stable,Neutral,Low,4,Yes,Moderate Risk
+YTH0665,29,Female,Low,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH0666,15,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH0667,25,Male,High,Supportive,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0668,24,Female,Moderate,Conflict,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0669,29,Female,Low,Neutral,High Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0670,19,Male,Moderate,Conflict,Moderate Stress,Positive,High,5,No,High Risk
+YTH0671,17,Male,Moderate,Conflict,Moderate Stress,Neutral,Moderate,2,Yes,High Risk
+YTH0672,20,Female,Low,Neutral,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0673,22,Male,High,Supportive,Stable,Neutral,Moderate,1,No,Moderate Risk
+YTH0674,28,Male,Moderate,Neutral,Stable,Positive,Low,1,No,Low Risk
+YTH0675,30,Female,High,Neutral,Moderate Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH0676,23,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH0677,26,Female,Moderate,Conflict,Stable,Positive,Moderate,1,Yes,Moderate Risk
+YTH0678,20,Male,Moderate,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH0679,26,Male,Moderate,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0680,25,Male,Low,Supportive,Stable,Positive,High,5,Yes,Low Risk
+YTH0681,28,Female,High,Supportive,Stable,Positive,Low,3,Yes,Low Risk
+YTH0682,29,Female,Low,Supportive,Moderate Stress,Positive,Low,2,Yes,Low Risk
+YTH0683,24,Male,Low,Conflict,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH0684,28,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,3,Yes,Low Risk
+YTH0685,17,Female,Moderate,Conflict,High Stress,Negative,Low,2,Yes,High Risk
+YTH0686,26,Male,Low,Conflict,High Stress,Negative,Low,2,Yes,Moderate Risk
+YTH0687,17,Male,High,Conflict,Moderate Stress,Neutral,High,2,Yes,High Risk
+YTH0688,18,Male,High,Conflict,Moderate Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH0689,26,Female,Moderate,Neutral,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0690,19,Female,High,Neutral,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH0691,24,Female,Moderate,Supportive,High Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0692,21,Male,High,Conflict,High Stress,Positive,Low,4,Yes,Moderate Risk
+YTH0693,27,Female,Moderate,Neutral,Stable,Positive,Moderate,1,Yes,Moderate Risk
+YTH0694,17,Female,High,Supportive,Moderate Stress,Negative,Low,4,No,Moderate Risk
+YTH0695,23,Female,High,Conflict,High Stress,Positive,Moderate,4,No,High Risk
+YTH0696,23,Male,High,Supportive,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0697,18,Male,High,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0698,24,Male,High,Neutral,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH0699,30,Female,Moderate,Conflict,Moderate Stress,Positive,High,4,Yes,Moderate Risk
+YTH0700,27,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,3,Yes,Low Risk
+YTH0701,30,Female,Low,Neutral,Moderate Stress,Positive,Moderate,5,No,Low Risk
+YTH0702,30,Male,Moderate,Supportive,Moderate Stress,Negative,Moderate,3,No,Moderate Risk
+YTH0703,25,Male,Low,Supportive,High Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0704,27,Male,Moderate,Conflict,Moderate Stress,Positive,Low,2,No,Moderate Risk
+YTH0705,17,Male,High,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH0706,23,Male,Moderate,Neutral,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0707,30,Male,Moderate,Supportive,Moderate Stress,Negative,Moderate,2,No,High Risk
+YTH0708,26,Female,Low,Neutral,High Stress,Positive,High,2,No,Moderate Risk
+YTH0709,23,Male,Low,Neutral,High Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0710,25,Female,Low,Conflict,Moderate Stress,Positive,High,3,No,Moderate Risk
+YTH0711,28,Female,Low,Supportive,Moderate Stress,Neutral,High,2,Yes,Moderate Risk
+YTH0712,20,Female,Low,Conflict,Moderate Stress,Neutral,High,5,No,Moderate Risk
+YTH0713,16,Male,Moderate,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH0714,25,Male,Moderate,Conflict,Stable,Positive,Low,5,Yes,Low Risk
+YTH0715,27,Male,Low,Supportive,Stable,Negative,Moderate,5,No,Low Risk
+YTH0716,28,Male,Low,Supportive,Stable,Negative,Low,5,Yes,Low Risk
+YTH0717,16,Female,High,Supportive,High Stress,Positive,Low,1,No,Moderate Risk
+YTH0718,26,Male,Moderate,Conflict,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0719,23,Female,High,Supportive,Stable,Negative,Low,5,No,Moderate Risk
+YTH0720,22,Female,Low,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0721,30,Female,Moderate,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH0722,26,Female,High,Conflict,Stable,Negative,Moderate,1,Yes,High Risk
+YTH0723,23,Female,Moderate,Conflict,Stable,Negative,Low,2,No,Moderate Risk
+YTH0724,27,Male,High,Supportive,High Stress,Positive,Low,2,No,Moderate Risk
+YTH0725,21,Male,High,Neutral,High Stress,Negative,Moderate,1,No,High Risk
+YTH0726,17,Female,Moderate,Supportive,High Stress,Neutral,High,1,Yes,High Risk
+YTH0727,23,Male,Moderate,Neutral,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0728,20,Female,High,Supportive,Moderate Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH0729,20,Male,Moderate,Conflict,High Stress,Negative,High,4,No,High Risk
+YTH0730,29,Female,High,Supportive,Stable,Neutral,Low,3,Yes,Low Risk
+YTH0731,17,Female,Moderate,Supportive,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0732,22,Male,High,Supportive,Moderate Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0733,19,Male,High,Supportive,Moderate Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0734,18,Male,High,Supportive,High Stress,Negative,Low,4,No,Moderate Risk
+YTH0735,19,Female,High,Neutral,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0736,28,Male,Low,Conflict,Stable,Neutral,Low,5,No,Low Risk
+YTH0737,17,Male,Moderate,Conflict,High Stress,Positive,Low,4,No,Moderate Risk
+YTH0738,23,Male,Low,Supportive,Stable,Positive,High,5,Yes,Low Risk
+YTH0739,15,Female,Moderate,Supportive,High Stress,Neutral,Low,5,Yes,Low Risk
+YTH0740,20,Female,Low,Neutral,Stable,Neutral,Low,5,No,Low Risk
+YTH0741,19,Female,Low,Supportive,Stable,Negative,High,3,No,Moderate Risk
+YTH0742,24,Female,Moderate,Conflict,Stable,Positive,High,3,No,Moderate Risk
+YTH0743,19,Female,Low,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH0744,18,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0745,26,Male,Low,Supportive,High Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0746,15,Male,Moderate,Supportive,High Stress,Neutral,High,1,No,High Risk
+YTH0747,18,Female,Moderate,Conflict,Stable,Positive,Low,4,No,Low Risk
+YTH0748,29,Female,Moderate,Supportive,High Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0749,21,Male,High,Supportive,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0750,17,Female,Low,Supportive,High Stress,Positive,Low,2,Yes,Low Risk
+YTH0751,27,Female,Low,Conflict,Moderate Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0752,19,Female,Moderate,Conflict,Moderate Stress,Neutral,High,4,No,High Risk
+YTH0753,28,Male,High,Conflict,Moderate Stress,Neutral,Moderate,1,No,High Risk
+YTH0754,29,Male,Moderate,Neutral,High Stress,Neutral,Moderate,1,No,High Risk
+YTH0755,29,Female,Low,Conflict,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0756,28,Female,Moderate,Neutral,High Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0757,29,Female,Moderate,Neutral,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0758,20,Female,Low,Supportive,Moderate Stress,Positive,Moderate,4,No,Low Risk
+YTH0759,25,Male,Low,Supportive,High Stress,Positive,Moderate,4,Yes,Low Risk
+YTH0760,15,Female,Low,Supportive,Moderate Stress,Neutral,High,5,No,Moderate Risk
+YTH0761,24,Female,Moderate,Conflict,Moderate Stress,Negative,Low,2,Yes,High Risk
+YTH0762,21,Male,High,Neutral,Stable,Positive,Moderate,2,Yes,Moderate Risk
+YTH0763,28,Male,Low,Conflict,Stable,Neutral,Low,2,No,Moderate Risk
+YTH0764,30,Female,Low,Supportive,Stable,Positive,High,4,Yes,Low Risk
+YTH0765,25,Male,Low,Conflict,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0766,16,Female,Moderate,Neutral,Moderate Stress,Negative,High,4,Yes,High Risk
+YTH0767,16,Male,Moderate,Supportive,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH0768,30,Female,Moderate,Supportive,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH0769,22,Female,High,Conflict,Moderate Stress,Neutral,High,4,No,High Risk
+YTH0770,26,Female,High,Conflict,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0771,20,Male,Low,Neutral,High Stress,Negative,Moderate,2,Yes,Moderate Risk
+YTH0772,16,Male,Moderate,Supportive,Moderate Stress,Positive,High,5,Yes,Moderate Risk
+YTH0773,17,Female,Moderate,Neutral,Stable,Positive,Low,3,No,Low Risk
+YTH0774,16,Female,High,Conflict,High Stress,Neutral,Low,1,No,High Risk
+YTH0775,29,Male,High,Conflict,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH0776,18,Male,Moderate,Conflict,High Stress,Positive,Low,4,No,Moderate Risk
+YTH0777,18,Male,Moderate,Supportive,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH0778,22,Female,Moderate,Neutral,Stable,Positive,High,3,Yes,Moderate Risk
+YTH0779,19,Female,High,Supportive,Moderate Stress,Negative,High,5,No,High Risk
+YTH0780,15,Female,Low,Supportive,High Stress,Negative,Low,3,No,Moderate Risk
+YTH0781,20,Female,Low,Conflict,Moderate Stress,Neutral,High,1,No,High Risk
+YTH0782,28,Female,High,Neutral,High Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH0783,23,Male,High,Supportive,Stable,Neutral,High,4,No,Moderate Risk
+YTH0784,27,Male,High,Supportive,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH0785,21,Male,Moderate,Supportive,Stable,Neutral,Low,5,No,Low Risk
+YTH0786,22,Female,High,Conflict,Stable,Positive,Moderate,5,No,Moderate Risk
+YTH0787,18,Male,High,Conflict,Moderate Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH0788,22,Female,Low,Neutral,High Stress,Neutral,Low,4,Yes,Low Risk
+YTH0789,18,Female,Moderate,Supportive,High Stress,Neutral,Low,4,No,Moderate Risk
+YTH0790,17,Male,Low,Conflict,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0791,27,Female,Moderate,Neutral,High Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0792,19,Male,Moderate,Neutral,High Stress,Neutral,Moderate,2,No,High Risk
+YTH0793,30,Male,High,Conflict,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH0794,18,Female,Moderate,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH0795,30,Male,High,Supportive,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH0796,20,Female,Low,Neutral,Stable,Positive,Moderate,3,No,Low Risk
+YTH0797,25,Female,Moderate,Neutral,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0798,29,Male,High,Supportive,High Stress,Neutral,Moderate,2,No,High Risk
+YTH0799,25,Male,High,Conflict,Moderate Stress,Neutral,High,1,No,High Risk
+YTH0800,18,Male,Low,Neutral,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH0801,15,Male,Moderate,Neutral,High Stress,Positive,Low,5,No,Moderate Risk
+YTH0802,17,Female,Moderate,Supportive,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0803,25,Female,Low,Supportive,Stable,Positive,Low,3,Yes,Low Risk
+YTH0804,19,Female,High,Neutral,Stable,Negative,Low,1,No,Moderate Risk
+YTH0805,27,Male,Moderate,Supportive,Stable,Positive,High,1,Yes,Moderate Risk
+YTH0806,21,Male,High,Neutral,Moderate Stress,Negative,Moderate,1,No,High Risk
+YTH0807,16,Female,Moderate,Supportive,Moderate Stress,Neutral,Low,1,No,Moderate Risk
+YTH0808,18,Male,High,Neutral,Stable,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0809,19,Female,Moderate,Supportive,Stable,Negative,High,5,No,Moderate Risk
+YTH0810,16,Male,High,Conflict,Moderate Stress,Neutral,Low,1,No,High Risk
+YTH0811,23,Female,High,Supportive,Stable,Neutral,Moderate,5,No,Moderate Risk
+YTH0812,16,Male,High,Neutral,Stable,Positive,Low,2,No,Moderate Risk
+YTH0813,28,Male,Moderate,Conflict,Stable,Neutral,Low,3,No,Moderate Risk
+YTH0814,23,Male,Moderate,Supportive,Stable,Negative,Low,2,Yes,Moderate Risk
+YTH0815,30,Male,High,Neutral,Moderate Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH0816,17,Male,High,Conflict,Moderate Stress,Positive,High,4,No,High Risk
+YTH0817,27,Male,High,Conflict,High Stress,Positive,Moderate,2,No,High Risk
+YTH0818,15,Male,High,Conflict,Moderate Stress,Neutral,Low,5,No,Moderate Risk
+YTH0819,22,Male,High,Conflict,Stable,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0820,15,Male,High,Neutral,Stable,Positive,Moderate,2,Yes,Moderate Risk
+YTH0821,20,Male,Moderate,Neutral,Stable,Negative,High,5,No,Moderate Risk
+YTH0822,21,Male,High,Neutral,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0823,28,Male,High,Supportive,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH0824,30,Female,Moderate,Supportive,Moderate Stress,Positive,High,5,No,Moderate Risk
+YTH0825,25,Male,Moderate,Supportive,High Stress,Negative,High,2,No,High Risk
+YTH0826,17,Male,Low,Supportive,Stable,Neutral,Low,4,Yes,Low Risk
+YTH0827,25,Female,Low,Neutral,High Stress,Negative,High,5,Yes,Moderate Risk
+YTH0828,17,Female,High,Neutral,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH0829,25,Male,High,Supportive,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0830,18,Male,Moderate,Supportive,Stable,Positive,High,2,Yes,Moderate Risk
+YTH0831,29,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0832,25,Male,Low,Supportive,Moderate Stress,Neutral,High,5,Yes,Moderate Risk
+YTH0833,23,Female,Moderate,Neutral,Moderate Stress,Positive,High,1,Yes,Moderate Risk
+YTH0834,24,Female,Moderate,Neutral,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0835,30,Female,Moderate,Supportive,High Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0836,22,Male,Moderate,Supportive,Stable,Negative,High,3,Yes,Moderate Risk
+YTH0837,30,Female,Moderate,Supportive,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0838,20,Male,Moderate,Conflict,Stable,Positive,Low,2,Yes,Moderate Risk
+YTH0839,29,Male,Low,Neutral,High Stress,Positive,Moderate,2,No,Moderate Risk
+YTH0840,20,Male,Moderate,Supportive,Stable,Positive,Low,2,No,Low Risk
+YTH0841,16,Male,Low,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH0842,20,Male,Low,Conflict,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0843,25,Male,Moderate,Supportive,High Stress,Neutral,High,5,No,Moderate Risk
+YTH0844,17,Male,Low,Conflict,High Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0845,28,Male,High,Conflict,Moderate Stress,Negative,Low,2,No,High Risk
+YTH0846,22,Male,Moderate,Supportive,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH0847,17,Female,High,Neutral,Stable,Positive,High,5,No,Moderate Risk
+YTH0848,30,Female,Low,Neutral,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH0849,27,Male,Low,Conflict,Moderate Stress,Positive,Low,4,No,Low Risk
+YTH0850,20,Female,Low,Supportive,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0851,29,Female,Moderate,Neutral,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0852,20,Female,Low,Neutral,Stable,Positive,High,5,Yes,Low Risk
+YTH0853,23,Male,Low,Supportive,Stable,Positive,Low,3,No,Low Risk
+YTH0854,24,Female,Low,Neutral,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH0855,15,Female,Low,Supportive,High Stress,Negative,High,1,No,High Risk
+YTH0856,19,Female,Low,Neutral,Stable,Positive,Moderate,5,No,Low Risk
+YTH0857,29,Female,High,Supportive,Stable,Negative,Moderate,2,No,Moderate Risk
+YTH0858,29,Male,Moderate,Neutral,Stable,Negative,Low,3,No,Moderate Risk
+YTH0859,22,Female,Moderate,Conflict,High Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH0860,16,Male,Low,Conflict,Stable,Neutral,Moderate,5,No,Moderate Risk
+YTH0861,27,Male,High,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH0862,17,Male,Low,Neutral,Stable,Neutral,Moderate,2,Yes,Low Risk
+YTH0863,17,Female,Low,Supportive,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH0864,20,Female,High,Supportive,Stable,Positive,Moderate,4,Yes,Low Risk
+YTH0865,27,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,5,No,Low Risk
+YTH0866,21,Female,Low,Supportive,Stable,Positive,Moderate,2,No,Low Risk
+YTH0867,30,Female,Moderate,Supportive,Stable,Neutral,High,3,No,Moderate Risk
+YTH0868,27,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH0869,27,Male,Low,Conflict,Stable,Neutral,Low,1,Yes,Low Risk
+YTH0870,30,Female,High,Neutral,High Stress,Positive,Low,3,No,Moderate Risk
+YTH0871,29,Male,Low,Neutral,Moderate Stress,Positive,Moderate,4,No,Low Risk
+YTH0872,25,Female,High,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH0873,30,Female,Low,Neutral,Stable,Negative,Low,3,Yes,Low Risk
+YTH0874,20,Male,Moderate,Supportive,Stable,Neutral,Low,1,No,Low Risk
+YTH0875,19,Female,Moderate,Supportive,Stable,Neutral,Low,1,Yes,Low Risk
+YTH0876,27,Female,Moderate,Neutral,Stable,Positive,Low,2,No,Low Risk
+YTH0877,22,Male,Low,Supportive,High Stress,Positive,Low,1,Yes,Low Risk
+YTH0878,18,Male,High,Supportive,Moderate Stress,Negative,Low,2,Yes,Moderate Risk
+YTH0879,27,Female,Low,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0880,27,Male,Moderate,Supportive,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0881,28,Female,High,Neutral,High Stress,Neutral,High,5,Yes,High Risk
+YTH0882,23,Male,Moderate,Conflict,Moderate Stress,Neutral,High,2,No,High Risk
+YTH0883,20,Female,High,Neutral,Stable,Positive,High,4,No,Moderate Risk
+YTH0884,22,Male,Low,Neutral,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0885,16,Male,Moderate,Supportive,Stable,Positive,Low,5,No,Low Risk
+YTH0886,25,Male,Low,Neutral,High Stress,Neutral,High,3,Yes,Moderate Risk
+YTH0887,22,Female,Moderate,Supportive,Stable,Negative,High,2,No,High Risk
+YTH0888,25,Male,Moderate,Supportive,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH0889,19,Male,Low,Neutral,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH0890,24,Male,High,Supportive,Stable,Positive,Low,4,Yes,Low Risk
+YTH0891,23,Female,Low,Conflict,Stable,Positive,Moderate,5,No,Low Risk
+YTH0892,19,Female,Low,Supportive,High Stress,Negative,High,5,Yes,Moderate Risk
+YTH0893,20,Female,Moderate,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH0894,30,Male,Low,Supportive,Stable,Neutral,Moderate,4,No,Low Risk
+YTH0895,28,Female,High,Supportive,Moderate Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH0896,18,Female,High,Supportive,High Stress,Negative,High,3,No,High Risk
+YTH0897,26,Male,Moderate,Conflict,Moderate Stress,Positive,Low,3,Yes,Moderate Risk
+YTH0898,19,Female,Moderate,Conflict,Stable,Positive,Moderate,2,Yes,Moderate Risk
+YTH0899,18,Male,Moderate,Conflict,Stable,Neutral,High,5,Yes,Moderate Risk
+YTH0900,28,Male,High,Supportive,Stable,Negative,Moderate,4,No,Moderate Risk
+YTH0901,28,Male,Low,Neutral,High Stress,Negative,Low,2,No,Moderate Risk
+YTH0902,24,Male,High,Conflict,Stable,Positive,Moderate,5,No,Moderate Risk
+YTH0903,24,Female,Low,Supportive,Moderate Stress,Positive,Low,1,No,Low Risk
+YTH0904,21,Male,Low,Neutral,High Stress,Positive,High,4,No,Moderate Risk
+YTH0905,18,Male,Low,Supportive,Stable,Positive,Low,2,No,Low Risk
+YTH0906,30,Male,Low,Supportive,High Stress,Neutral,High,1,Yes,Moderate Risk
+YTH0907,21,Male,Moderate,Neutral,High Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0908,25,Female,Moderate,Supportive,Stable,Positive,Moderate,4,No,Low Risk
+YTH0909,16,Female,High,Conflict,Stable,Negative,Moderate,2,Yes,High Risk
+YTH0910,18,Female,High,Conflict,Stable,Neutral,Moderate,4,No,Moderate Risk
+YTH0911,21,Male,High,Conflict,High Stress,Positive,Moderate,1,No,High Risk
+YTH0912,29,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,4,Yes,Low Risk
+YTH0913,27,Female,Moderate,Neutral,High Stress,Negative,High,5,Yes,High Risk
+YTH0914,19,Female,High,Supportive,Moderate Stress,Neutral,High,2,No,High Risk
+YTH0915,18,Female,Moderate,Supportive,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH0916,28,Male,Low,Conflict,High Stress,Negative,Low,3,No,Moderate Risk
+YTH0917,18,Male,High,Neutral,Moderate Stress,Negative,Low,2,Yes,Moderate Risk
+YTH0918,25,Female,High,Neutral,Moderate Stress,Neutral,High,4,Yes,Moderate Risk
+YTH0919,22,Female,Low,Supportive,Stable,Neutral,High,1,No,Moderate Risk
+YTH0920,19,Female,High,Neutral,Stable,Positive,Moderate,4,No,Moderate Risk
+YTH0921,25,Female,High,Conflict,Stable,Neutral,Moderate,1,No,High Risk
+YTH0922,15,Female,Moderate,Conflict,Stable,Positive,Moderate,2,No,Moderate Risk
+YTH0923,19,Male,Moderate,Supportive,High Stress,Positive,High,5,No,Moderate Risk
+YTH0924,21,Female,Low,Conflict,Stable,Negative,Low,2,Yes,Moderate Risk
+YTH0925,16,Male,High,Neutral,Stable,Negative,High,2,Yes,High Risk
+YTH0926,27,Female,Moderate,Neutral,Stable,Positive,Low,3,No,Low Risk
+YTH0927,21,Female,Low,Supportive,High Stress,Negative,Low,3,No,Moderate Risk
+YTH0928,20,Male,Moderate,Neutral,High Stress,Positive,High,2,Yes,High Risk
+YTH0929,26,Male,Moderate,Conflict,Stable,Negative,Moderate,2,Yes,High Risk
+YTH0930,18,Female,High,Supportive,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH0931,19,Female,Low,Supportive,Stable,Positive,Moderate,2,No,Low Risk
+YTH0932,17,Female,High,Neutral,Stable,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0933,17,Male,Moderate,Neutral,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH0934,23,Male,High,Supportive,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0935,18,Female,Low,Conflict,High Stress,Positive,High,1,No,High Risk
+YTH0936,30,Male,Moderate,Neutral,Moderate Stress,Negative,Low,2,Yes,Moderate Risk
+YTH0937,20,Male,Low,Supportive,Stable,Positive,Moderate,2,Yes,Low Risk
+YTH0938,23,Male,Low,Supportive,Stable,Negative,Low,1,Yes,Low Risk
+YTH0939,24,Male,High,Neutral,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH0940,25,Female,Moderate,Neutral,Moderate Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH0941,19,Female,High,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH0942,28,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH0943,19,Male,Low,Neutral,High Stress,Neutral,Low,3,Yes,Low Risk
+YTH0944,28,Male,Moderate,Conflict,Stable,Negative,Low,3,Yes,Moderate Risk
+YTH0945,18,Female,Low,Neutral,Stable,Positive,Low,2,No,Low Risk
+YTH0946,15,Male,Moderate,Conflict,Stable,Positive,High,2,No,High Risk
+YTH0947,30,Male,Moderate,Neutral,High Stress,Neutral,Moderate,1,Yes,Moderate Risk
+YTH0948,25,Female,Low,Conflict,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH0949,19,Female,Low,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0950,26,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH0951,23,Female,Moderate,Neutral,High Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0952,28,Female,High,Neutral,Stable,Positive,Low,5,Yes,Low Risk
+YTH0953,17,Female,Moderate,Neutral,High Stress,Negative,Moderate,5,Yes,Moderate Risk
+YTH0954,30,Female,Moderate,Conflict,High Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0955,15,Female,High,Neutral,Stable,Neutral,High,5,Yes,Moderate Risk
+YTH0956,29,Male,Moderate,Conflict,Moderate Stress,Positive,Low,2,No,Moderate Risk
+YTH0957,16,Female,Moderate,Supportive,High Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH0958,24,Female,Moderate,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH0959,29,Female,Low,Supportive,Moderate Stress,Positive,Low,3,Yes,Low Risk
+YTH0960,27,Female,Low,Supportive,Stable,Neutral,High,4,Yes,Low Risk
+YTH0961,30,Male,Low,Neutral,Stable,Positive,Low,4,Yes,Low Risk
+YTH0962,23,Male,High,Neutral,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH0963,21,Male,Low,Supportive,Stable,Neutral,High,2,Yes,Moderate Risk
+YTH0964,30,Female,Low,Neutral,Moderate Stress,Neutral,Low,4,No,Low Risk
+YTH0965,19,Male,High,Conflict,Stable,Positive,Low,2,Yes,Moderate Risk
+YTH0966,25,Female,High,Neutral,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH0967,19,Male,Low,Conflict,High Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0968,30,Male,High,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH0969,18,Male,Moderate,Supportive,Stable,Positive,Low,2,Yes,Low Risk
+YTH0970,16,Female,Moderate,Supportive,Moderate Stress,Positive,Low,4,Yes,Low Risk
+YTH0971,28,Male,Moderate,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0972,20,Male,Low,Neutral,Stable,Positive,Low,5,Yes,Low Risk
+YTH0973,28,Male,Low,Neutral,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0974,25,Female,High,Supportive,High Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH0975,27,Male,High,Supportive,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH0976,29,Male,Low,Neutral,Stable,Neutral,High,2,Yes,Moderate Risk
+YTH0977,16,Male,Low,Neutral,Stable,Negative,High,5,No,Moderate Risk
+YTH0978,26,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH0979,20,Female,Moderate,Supportive,Stable,Neutral,High,2,No,Moderate Risk
+YTH0980,30,Male,Low,Conflict,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH0981,20,Male,Low,Supportive,Moderate Stress,Negative,High,4,No,Moderate Risk
+YTH0982,24,Male,Low,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH0983,19,Female,High,Supportive,High Stress,Neutral,Low,2,Yes,Moderate Risk
+YTH0984,15,Female,Moderate,Conflict,Stable,Negative,High,3,Yes,High Risk
+YTH0985,28,Female,Moderate,Supportive,High Stress,Negative,Low,3,Yes,Moderate Risk
+YTH0986,23,Male,Moderate,Conflict,High Stress,Negative,Low,4,No,High Risk
+YTH0987,21,Female,Low,Supportive,Moderate Stress,Negative,High,2,No,High Risk
+YTH0988,22,Female,Moderate,Conflict,Stable,Positive,Low,2,Yes,Moderate Risk
+YTH0989,30,Male,Moderate,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH0990,17,Male,Low,Supportive,High Stress,Negative,Low,5,Yes,Low Risk
+YTH0991,15,Male,Moderate,Supportive,High Stress,Negative,Moderate,1,Yes,High Risk
+YTH0992,22,Male,Low,Conflict,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH0993,17,Male,Low,Conflict,High Stress,Negative,Low,4,Yes,Moderate Risk
+YTH0994,22,Male,Moderate,Supportive,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH0995,18,Female,Low,Conflict,Stable,Neutral,Low,3,Yes,Low Risk
+YTH0996,27,Male,Moderate,Conflict,Stable,Negative,Low,1,No,Moderate Risk
+YTH0997,18,Female,High,Conflict,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH0998,20,Female,Low,Neutral,Stable,Negative,Low,1,No,Moderate Risk
+YTH0999,30,Female,High,Conflict,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1000,25,Male,Moderate,Neutral,High Stress,Neutral,Low,5,No,Moderate Risk
+YTH1001,23,Male,Low,Conflict,Stable,Positive,Low,4,No,Low Risk
+YTH1002,28,Female,Low,Conflict,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1003,22,Female,Low,Neutral,Moderate Stress,Negative,High,2,Yes,High Risk
+YTH1004,22,Female,Low,Conflict,Stable,Neutral,High,1,Yes,Moderate Risk
+YTH1005,26,Female,High,Conflict,High Stress,Positive,Low,5,No,Moderate Risk
+YTH1006,22,Male,High,Supportive,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH1007,28,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1008,19,Female,Low,Supportive,Stable,Negative,Moderate,2,No,Moderate Risk
+YTH1009,19,Female,Moderate,Neutral,Moderate Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH1010,16,Male,Moderate,Supportive,Stable,Positive,Moderate,4,No,Low Risk
+YTH1011,24,Male,Moderate,Supportive,High Stress,Neutral,High,2,Yes,High Risk
+YTH1012,27,Male,Low,Supportive,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH1013,25,Female,High,Supportive,High Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH1014,17,Female,Moderate,Conflict,Stable,Positive,Moderate,1,Yes,Moderate Risk
+YTH1015,15,Female,Low,Supportive,High Stress,Positive,Low,5,Yes,Low Risk
+YTH1016,30,Male,Low,Supportive,Stable,Negative,High,4,Yes,Moderate Risk
+YTH1017,25,Female,High,Conflict,Moderate Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH1018,19,Male,Moderate,Supportive,Moderate Stress,Negative,Low,2,No,Moderate Risk
+YTH1019,17,Male,High,Supportive,Stable,Neutral,Low,2,No,Moderate Risk
+YTH1020,29,Male,Moderate,Supportive,High Stress,Neutral,High,4,Yes,Moderate Risk
+YTH1021,21,Male,High,Neutral,High Stress,Positive,Low,3,Yes,Moderate Risk
+YTH1022,30,Male,Moderate,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1023,17,Male,High,Neutral,High Stress,Negative,High,4,Yes,High Risk
+YTH1024,18,Female,Low,Conflict,Moderate Stress,Negative,High,2,No,High Risk
+YTH1025,26,Female,Moderate,Neutral,Moderate Stress,Positive,High,1,Yes,Moderate Risk
+YTH1026,22,Male,Low,Supportive,Stable,Neutral,High,2,No,Moderate Risk
+YTH1027,29,Male,Moderate,Neutral,Moderate Stress,Negative,Low,2,Yes,Moderate Risk
+YTH1028,27,Female,Low,Supportive,Stable,Negative,Moderate,4,Yes,Low Risk
+YTH1029,23,Female,Low,Supportive,Moderate Stress,Neutral,Low,1,No,Low Risk
+YTH1030,16,Female,High,Conflict,Stable,Positive,Low,4,No,Moderate Risk
+YTH1031,23,Male,Low,Supportive,Moderate Stress,Positive,Moderate,4,Yes,Low Risk
+YTH1032,23,Male,High,Supportive,High Stress,Positive,High,2,Yes,High Risk
+YTH1033,26,Female,Moderate,Neutral,High Stress,Negative,Moderate,5,No,High Risk
+YTH1034,15,Male,Low,Neutral,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH1035,19,Female,High,Neutral,Stable,Negative,Moderate,3,Yes,Moderate Risk
+YTH1036,29,Male,Moderate,Neutral,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH1037,20,Female,Low,Supportive,Stable,Neutral,High,3,No,Low Risk
+YTH1038,15,Female,High,Neutral,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH1039,28,Female,Moderate,Neutral,Moderate Stress,Negative,Low,2,No,Moderate Risk
+YTH1040,28,Female,Low,Neutral,Moderate Stress,Positive,High,4,No,Moderate Risk
+YTH1041,18,Male,High,Supportive,Moderate Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH1042,29,Male,Moderate,Conflict,Stable,Negative,Moderate,1,Yes,High Risk
+YTH1043,30,Male,Moderate,Conflict,Moderate Stress,Negative,Moderate,4,Yes,High Risk
+YTH1044,26,Male,Moderate,Supportive,Moderate Stress,Positive,High,4,Yes,Moderate Risk
+YTH1045,15,Female,Low,Supportive,High Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1046,25,Male,High,Conflict,Stable,Negative,Low,4,Yes,Moderate Risk
+YTH1047,28,Male,High,Supportive,Moderate Stress,Neutral,Low,2,No,Moderate Risk
+YTH1048,22,Male,High,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH1049,25,Male,Low,Supportive,Stable,Negative,Low,5,Yes,Low Risk
+YTH1050,27,Male,High,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1051,24,Male,Moderate,Supportive,High Stress,Negative,High,1,No,High Risk
+YTH1052,17,Male,Moderate,Neutral,Moderate Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH1053,18,Male,Low,Conflict,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1054,18,Female,High,Supportive,Moderate Stress,Neutral,Low,4,No,Moderate Risk
+YTH1055,25,Female,High,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH1056,18,Female,High,Neutral,Moderate Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH1057,21,Male,Moderate,Neutral,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1058,25,Male,Low,Neutral,High Stress,Positive,Moderate,1,No,Moderate Risk
+YTH1059,24,Female,High,Neutral,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1060,23,Female,Low,Conflict,Moderate Stress,Positive,Low,4,No,Low Risk
+YTH1061,29,Female,Moderate,Supportive,Stable,Positive,Moderate,2,No,Moderate Risk
+YTH1062,26,Male,Moderate,Conflict,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1063,27,Male,Low,Conflict,Moderate Stress,Positive,Low,2,No,Moderate Risk
+YTH1064,26,Male,High,Supportive,Stable,Positive,Low,4,No,Low Risk
+YTH1065,22,Male,Moderate,Neutral,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH1066,28,Female,Moderate,Supportive,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH1067,18,Male,Moderate,Neutral,Moderate Stress,Positive,Low,1,Yes,Moderate Risk
+YTH1068,29,Female,Low,Conflict,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH1069,17,Female,Low,Conflict,Moderate Stress,Positive,High,4,Yes,Moderate Risk
+YTH1070,25,Female,Moderate,Supportive,Moderate Stress,Neutral,High,1,No,High Risk
+YTH1071,18,Male,Low,Conflict,Stable,Negative,High,4,Yes,Moderate Risk
+YTH1072,20,Male,Low,Conflict,Stable,Negative,High,1,No,High Risk
+YTH1073,16,Male,Low,Supportive,Stable,Neutral,High,4,No,Low Risk
+YTH1074,20,Male,Moderate,Supportive,Stable,Positive,Moderate,4,No,Low Risk
+YTH1075,18,Male,Moderate,Neutral,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1076,23,Female,High,Supportive,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1077,17,Female,Low,Supportive,Stable,Negative,Low,1,No,Low Risk
+YTH1078,21,Female,High,Supportive,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1079,26,Female,High,Conflict,Moderate Stress,Negative,Low,3,No,High Risk
+YTH1080,20,Female,High,Neutral,Stable,Neutral,Low,1,Yes,Moderate Risk
+YTH1081,15,Female,Low,Supportive,Moderate Stress,Neutral,Low,5,Yes,Low Risk
+YTH1082,26,Female,Low,Supportive,Moderate Stress,Positive,Moderate,3,Yes,Low Risk
+YTH1083,16,Female,High,Supportive,Stable,Neutral,Moderate,5,No,Moderate Risk
+YTH1084,28,Male,Moderate,Neutral,High Stress,Positive,Low,1,No,Moderate Risk
+YTH1085,22,Male,Moderate,Supportive,High Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH1086,22,Female,Moderate,Supportive,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH1087,18,Male,Moderate,Neutral,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH1088,25,Male,Low,Supportive,Moderate Stress,Negative,Moderate,4,No,Moderate Risk
+YTH1089,15,Male,High,Conflict,Stable,Negative,Low,3,No,Moderate Risk
+YTH1090,15,Female,High,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1091,20,Male,High,Supportive,High Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1092,30,Female,Moderate,Supportive,Stable,Neutral,High,5,No,Moderate Risk
+YTH1093,18,Female,Moderate,Neutral,Stable,Negative,High,2,No,High Risk
+YTH1094,30,Male,Low,Neutral,High Stress,Positive,Moderate,2,No,Moderate Risk
+YTH1095,18,Female,High,Neutral,High Stress,Neutral,High,5,Yes,High Risk
+YTH1096,23,Female,High,Supportive,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH1097,18,Female,High,Neutral,High Stress,Positive,Low,1,No,Moderate Risk
+YTH1098,19,Female,Moderate,Neutral,Stable,Neutral,Low,4,No,Low Risk
+YTH1099,17,Female,Low,Supportive,Stable,Neutral,Low,3,Yes,Low Risk
+YTH1100,28,Female,Moderate,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH1101,17,Female,Low,Neutral,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH1102,26,Male,High,Neutral,Moderate Stress,Negative,Low,3,No,Moderate Risk
+YTH1103,24,Male,Moderate,Neutral,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1104,19,Female,Moderate,Supportive,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH1105,27,Female,Low,Neutral,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1106,26,Female,Moderate,Conflict,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH1107,19,Female,High,Neutral,Stable,Neutral,High,3,Yes,Moderate Risk
+YTH1108,27,Male,Moderate,Supportive,High Stress,Negative,Moderate,1,Yes,High Risk
+YTH1109,16,Female,High,Neutral,Stable,Positive,Low,4,No,Low Risk
+YTH1110,16,Male,High,Neutral,Moderate Stress,Positive,Low,2,No,Moderate Risk
+YTH1111,19,Male,High,Neutral,Stable,Neutral,Moderate,1,No,Moderate Risk
+YTH1112,21,Male,Low,Supportive,High Stress,Neutral,Low,1,No,Moderate Risk
+YTH1113,15,Female,Moderate,Conflict,Stable,Neutral,Low,2,No,Moderate Risk
+YTH1114,29,Male,Moderate,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH1115,30,Female,Low,Neutral,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH1116,18,Female,Moderate,Supportive,Stable,Neutral,Moderate,1,No,Moderate Risk
+YTH1117,16,Female,Low,Conflict,High Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH1118,20,Female,Moderate,Conflict,Stable,Negative,Moderate,5,Yes,Moderate Risk
+YTH1119,20,Male,Moderate,Neutral,Stable,Neutral,High,3,No,Moderate Risk
+YTH1120,27,Male,High,Neutral,Stable,Neutral,Moderate,5,No,Moderate Risk
+YTH1121,19,Female,Moderate,Neutral,Moderate Stress,Negative,Low,1,Yes,Moderate Risk
+YTH1122,22,Male,Moderate,Neutral,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1123,20,Female,High,Supportive,Stable,Neutral,Low,1,No,Moderate Risk
+YTH1124,26,Male,High,Supportive,Moderate Stress,Positive,High,5,Yes,Moderate Risk
+YTH1125,21,Female,Moderate,Neutral,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH1126,17,Male,Moderate,Neutral,Stable,Negative,High,3,No,Moderate Risk
+YTH1127,17,Female,Low,Neutral,High Stress,Neutral,Moderate,2,No,Moderate Risk
+YTH1128,26,Female,Moderate,Neutral,Stable,Positive,Moderate,4,Yes,Low Risk
+YTH1129,17,Male,High,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1130,22,Female,High,Supportive,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH1131,22,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,3,Yes,Low Risk
+YTH1132,16,Female,Moderate,Supportive,High Stress,Positive,Low,3,Yes,Low Risk
+YTH1133,22,Female,Low,Conflict,High Stress,Neutral,High,1,No,High Risk
+YTH1134,17,Female,Moderate,Neutral,Stable,Neutral,High,3,Yes,Moderate Risk
+YTH1135,18,Male,Moderate,Supportive,Stable,Neutral,High,2,Yes,Moderate Risk
+YTH1136,16,Male,High,Conflict,Moderate Stress,Negative,Moderate,1,No,High Risk
+YTH1137,16,Female,High,Neutral,Moderate Stress,Neutral,Low,4,Yes,Moderate Risk
+YTH1138,26,Female,Low,Supportive,Stable,Positive,Moderate,2,No,Low Risk
+YTH1139,16,Male,High,Supportive,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1140,25,Female,Moderate,Conflict,High Stress,Positive,Moderate,1,Yes,High Risk
+YTH1141,17,Female,High,Supportive,Moderate Stress,Negative,High,2,No,High Risk
+YTH1142,24,Female,High,Supportive,Moderate Stress,Neutral,Low,5,Yes,Low Risk
+YTH1143,16,Female,High,Neutral,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1144,24,Male,Low,Neutral,High Stress,Positive,Low,4,No,Low Risk
+YTH1145,18,Male,Moderate,Supportive,Stable,Positive,High,1,Yes,Moderate Risk
+YTH1146,23,Female,Moderate,Conflict,Stable,Positive,Low,2,No,Moderate Risk
+YTH1147,16,Female,Low,Conflict,High Stress,Negative,High,3,No,High Risk
+YTH1148,21,Male,Moderate,Conflict,Moderate Stress,Neutral,Moderate,1,Yes,High Risk
+YTH1149,27,Female,High,Conflict,Moderate Stress,Neutral,Moderate,5,No,High Risk
+YTH1150,20,Female,Moderate,Conflict,Stable,Negative,Low,3,Yes,Moderate Risk
+YTH1151,22,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,5,Yes,Low Risk
+YTH1152,18,Female,Moderate,Supportive,Stable,Positive,Moderate,4,Yes,Low Risk
+YTH1153,29,Male,High,Neutral,High Stress,Positive,Low,1,No,Moderate Risk
+YTH1154,25,Male,Moderate,Supportive,High Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1155,19,Male,Low,Neutral,Stable,Neutral,Moderate,3,Yes,Low Risk
+YTH1156,22,Male,High,Conflict,High Stress,Positive,High,3,Yes,High Risk
+YTH1157,22,Female,Low,Neutral,Stable,Positive,Low,5,No,Low Risk
+YTH1158,28,Male,Moderate,Conflict,Stable,Positive,High,3,No,Moderate Risk
+YTH1159,26,Female,High,Supportive,Stable,Positive,Low,2,Yes,Low Risk
+YTH1160,18,Male,High,Neutral,High Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH1161,27,Male,Moderate,Supportive,High Stress,Neutral,High,2,No,High Risk
+YTH1162,18,Male,Moderate,Neutral,Moderate Stress,Positive,Low,5,No,Low Risk
+YTH1163,22,Female,Low,Conflict,Stable,Neutral,Moderate,1,Yes,Moderate Risk
+YTH1164,29,Female,Moderate,Supportive,Moderate Stress,Negative,Moderate,5,Yes,Moderate Risk
+YTH1165,29,Female,Low,Conflict,High Stress,Negative,Low,4,Yes,Moderate Risk
+YTH1166,23,Female,Moderate,Supportive,Moderate Stress,Neutral,Low,4,Yes,Low Risk
+YTH1167,20,Female,Low,Supportive,Stable,Neutral,High,1,Yes,Moderate Risk
+YTH1168,16,Female,Low,Supportive,Stable,Neutral,Moderate,4,No,Low Risk
+YTH1169,26,Male,Moderate,Neutral,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH1170,16,Male,High,Supportive,Moderate Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH1171,30,Male,High,Neutral,Moderate Stress,Negative,Moderate,2,Yes,High Risk
+YTH1172,26,Female,Moderate,Supportive,Moderate Stress,Neutral,High,1,Yes,Moderate Risk
+YTH1173,24,Female,Moderate,Neutral,High Stress,Neutral,High,4,No,High Risk
+YTH1174,25,Female,Moderate,Supportive,Stable,Negative,Moderate,2,No,Moderate Risk
+YTH1175,23,Female,Low,Supportive,Stable,Positive,Moderate,2,No,Low Risk
+YTH1176,23,Male,High,Neutral,Stable,Positive,High,2,Yes,Moderate Risk
+YTH1177,16,Male,Low,Conflict,Stable,Positive,High,5,No,Moderate Risk
+YTH1178,29,Male,High,Supportive,Stable,Neutral,High,4,No,Moderate Risk
+YTH1179,30,Female,Low,Supportive,Stable,Neutral,High,1,Yes,Moderate Risk
+YTH1180,17,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH1181,16,Female,Low,Neutral,Moderate Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH1182,22,Male,Moderate,Conflict,Stable,Positive,Moderate,4,Yes,Moderate Risk
+YTH1183,30,Female,Low,Neutral,Stable,Neutral,Moderate,2,Yes,Low Risk
+YTH1184,28,Male,Moderate,Neutral,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1185,22,Female,Moderate,Neutral,Stable,Positive,Low,3,No,Low Risk
+YTH1186,30,Female,Moderate,Neutral,Stable,Positive,High,3,No,Moderate Risk
+YTH1187,29,Female,Low,Supportive,Stable,Negative,Moderate,3,No,Low Risk
+YTH1188,19,Female,High,Conflict,Moderate Stress,Neutral,Low,3,Yes,Moderate Risk
+YTH1189,28,Male,Moderate,Supportive,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH1190,23,Male,Low,Neutral,Stable,Negative,Low,4,Yes,Low Risk
+YTH1191,20,Male,High,Supportive,High Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH1192,15,Female,Low,Neutral,High Stress,Negative,Moderate,1,Yes,Moderate Risk
+YTH1193,26,Male,High,Conflict,Stable,Neutral,Low,2,No,Moderate Risk
+YTH1194,25,Female,Low,Neutral,High Stress,Positive,Low,5,Yes,Low Risk
+YTH1195,27,Female,Low,Supportive,Stable,Neutral,Moderate,1,No,Low Risk
+YTH1196,18,Female,Moderate,Supportive,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH1197,15,Male,High,Neutral,High Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH1198,24,Female,Moderate,Neutral,Stable,Neutral,Low,5,No,Low Risk
+YTH1199,27,Female,Moderate,Supportive,Moderate Stress,Positive,Low,5,Yes,Low Risk
+YTH1200,27,Male,High,Neutral,High Stress,Negative,Moderate,4,Yes,High Risk
+YTH1201,15,Female,High,Supportive,Moderate Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1202,18,Male,Low,Conflict,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH1203,16,Female,Low,Supportive,Stable,Positive,Low,5,No,Low Risk
+YTH1204,15,Female,Moderate,Conflict,High Stress,Neutral,Low,2,No,High Risk
+YTH1205,29,Female,Moderate,Conflict,High Stress,Positive,Low,1,No,Moderate Risk
+YTH1206,19,Male,Low,Neutral,Stable,Neutral,High,1,No,Moderate Risk
+YTH1207,30,Male,Moderate,Neutral,Stable,Negative,Moderate,1,No,Moderate Risk
+YTH1208,18,Female,High,Neutral,High Stress,Positive,Low,3,Yes,Moderate Risk
+YTH1209,19,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1210,29,Male,High,Conflict,Moderate Stress,Negative,Low,5,No,High Risk
+YTH1211,15,Female,Moderate,Supportive,Stable,Negative,Low,2,Yes,Moderate Risk
+YTH1212,18,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,5,Yes,Low Risk
+YTH1213,26,Male,High,Supportive,High Stress,Negative,Moderate,3,No,High Risk
+YTH1214,27,Female,Moderate,Neutral,Stable,Neutral,Low,2,No,Moderate Risk
+YTH1215,20,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH1216,30,Male,Low,Conflict,High Stress,Positive,High,2,Yes,High Risk
+YTH1217,20,Female,High,Supportive,High Stress,Positive,Moderate,4,No,Moderate Risk
+YTH1218,30,Female,Moderate,Conflict,Stable,Positive,High,4,No,Moderate Risk
+YTH1219,24,Female,Moderate,Conflict,High Stress,Negative,High,3,Yes,High Risk
+YTH1220,28,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,3,Yes,Moderate Risk
+YTH1221,15,Female,High,Conflict,Stable,Neutral,Moderate,2,No,High Risk
+YTH1222,26,Male,High,Conflict,Stable,Positive,Low,5,No,Moderate Risk
+YTH1223,25,Male,High,Conflict,Moderate Stress,Positive,Low,3,No,Moderate Risk
+YTH1224,27,Male,High,Neutral,Stable,Positive,Moderate,1,No,Moderate Risk
+YTH1225,29,Female,Low,Neutral,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH1226,19,Male,High,Supportive,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH1227,18,Female,High,Supportive,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH1228,26,Male,High,Supportive,High Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH1229,23,Male,Low,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH1230,23,Female,Low,Neutral,High Stress,Positive,High,1,Yes,Moderate Risk
+YTH1231,17,Male,High,Supportive,Moderate Stress,Negative,High,1,Yes,High Risk
+YTH1232,26,Female,Low,Neutral,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH1233,24,Male,Moderate,Supportive,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1234,21,Male,High,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1235,29,Male,Low,Conflict,Stable,Neutral,Low,4,No,Low Risk
+YTH1236,24,Male,Moderate,Conflict,Moderate Stress,Neutral,Low,5,Yes,Moderate Risk
+YTH1237,23,Male,Moderate,Supportive,Stable,Neutral,Low,2,No,Low Risk
+YTH1238,25,Female,Moderate,Neutral,High Stress,Positive,Low,3,Yes,Low Risk
+YTH1239,20,Female,Moderate,Supportive,High Stress,Positive,Moderate,2,No,Moderate Risk
+YTH1240,20,Male,Moderate,Neutral,Moderate Stress,Neutral,Moderate,4,Yes,Moderate Risk
+YTH1241,23,Female,Moderate,Neutral,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH1242,28,Female,High,Conflict,Moderate Stress,Positive,Moderate,3,Yes,Moderate Risk
+YTH1243,19,Male,Moderate,Conflict,Stable,Positive,High,2,No,High Risk
+YTH1244,29,Female,Low,Supportive,Stable,Negative,Low,1,Yes,Low Risk
+YTH1245,22,Male,Moderate,Neutral,Stable,Neutral,High,1,No,Moderate Risk
+YTH1246,20,Female,Low,Neutral,Stable,Positive,Moderate,4,No,Low Risk
+YTH1247,22,Male,Moderate,Supportive,High Stress,Positive,Low,3,No,Low Risk
+YTH1248,27,Male,Moderate,Neutral,High Stress,Positive,High,2,Yes,High Risk
+YTH1249,26,Female,Moderate,Conflict,Moderate Stress,Negative,High,2,Yes,High Risk
+YTH1250,30,Male,Low,Supportive,Stable,Positive,Low,2,No,Low Risk
+YTH1251,24,Female,Moderate,Neutral,Stable,Negative,Low,4,Yes,Low Risk
+YTH1252,29,Male,Moderate,Neutral,Moderate Stress,Neutral,High,2,No,High Risk
+YTH1253,19,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH1254,28,Female,High,Supportive,High Stress,Negative,Moderate,4,No,High Risk
+YTH1255,26,Male,High,Conflict,Moderate Stress,Positive,Moderate,2,Yes,High Risk
+YTH1256,25,Female,Low,Conflict,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH1257,18,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,3,Yes,Low Risk
+YTH1258,23,Male,Low,Supportive,Moderate Stress,Positive,Low,1,No,Low Risk
+YTH1259,16,Female,Low,Supportive,Stable,Neutral,Moderate,4,No,Low Risk
+YTH1260,26,Female,Moderate,Supportive,High Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1261,16,Male,Moderate,Supportive,Moderate Stress,Neutral,High,1,No,High Risk
+YTH1262,17,Female,High,Neutral,Moderate Stress,Positive,High,3,Yes,Moderate Risk
+YTH1263,28,Male,High,Neutral,High Stress,Neutral,Moderate,2,Yes,High Risk
+YTH1264,26,Female,Low,Conflict,Stable,Neutral,Low,5,Yes,Low Risk
+YTH1265,27,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH1266,23,Female,Moderate,Conflict,Stable,Positive,Low,3,Yes,Low Risk
+YTH1267,17,Female,High,Neutral,Moderate Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH1268,30,Male,Moderate,Supportive,High Stress,Positive,High,4,Yes,Moderate Risk
+YTH1269,20,Female,Low,Supportive,High Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1270,17,Male,High,Neutral,Stable,Negative,Moderate,4,Yes,Moderate Risk
+YTH1271,19,Male,Moderate,Neutral,Moderate Stress,Negative,High,3,No,High Risk
+YTH1272,22,Female,High,Supportive,Moderate Stress,Negative,Low,2,Yes,Moderate Risk
+YTH1273,18,Female,Low,Supportive,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH1274,21,Female,High,Supportive,High Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1275,22,Female,Moderate,Neutral,High Stress,Neutral,High,2,No,High Risk
+YTH1276,24,Male,Moderate,Supportive,Moderate Stress,Positive,High,4,No,Moderate Risk
+YTH1277,28,Female,Low,Supportive,Stable,Neutral,Moderate,1,No,Low Risk
+YTH1278,15,Female,Moderate,Supportive,Moderate Stress,Neutral,High,1,No,High Risk
+YTH1279,21,Male,Moderate,Neutral,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1280,19,Female,Low,Supportive,Moderate Stress,Neutral,Moderate,4,Yes,Low Risk
+YTH1281,20,Female,Moderate,Supportive,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH1282,29,Male,Low,Supportive,Moderate Stress,Negative,High,4,Yes,Moderate Risk
+YTH1283,28,Female,High,Neutral,Moderate Stress,Neutral,High,1,No,High Risk
+YTH1284,30,Male,Low,Supportive,High Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1285,28,Male,Low,Conflict,High Stress,Neutral,High,2,No,High Risk
+YTH1286,28,Female,Low,Supportive,Moderate Stress,Positive,Low,1,No,Low Risk
+YTH1287,30,Male,High,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1288,16,Male,Low,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH1289,20,Female,Moderate,Supportive,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1290,27,Female,Moderate,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH1291,27,Female,Moderate,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH1292,27,Female,Moderate,Conflict,Moderate Stress,Neutral,Moderate,1,No,High Risk
+YTH1293,22,Female,Low,Supportive,Moderate Stress,Neutral,Low,2,No,Low Risk
+YTH1294,30,Female,Moderate,Neutral,Stable,Neutral,High,5,Yes,Moderate Risk
+YTH1295,21,Female,Moderate,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH1296,16,Female,Moderate,Supportive,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1297,29,Male,Low,Neutral,Moderate Stress,Positive,Low,1,Yes,Low Risk
+YTH1298,24,Male,Low,Supportive,High Stress,Neutral,Low,1,No,Moderate Risk
+YTH1299,17,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1300,24,Male,Moderate,Conflict,Stable,Negative,High,2,No,High Risk
+YTH1301,15,Female,High,Neutral,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1302,24,Female,High,Supportive,Stable,Neutral,Low,4,Yes,Low Risk
+YTH1303,20,Female,Low,Conflict,Moderate Stress,Neutral,Low,4,No,Moderate Risk
+YTH1304,18,Female,Moderate,Neutral,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1305,24,Female,Moderate,Neutral,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH1306,25,Male,Low,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH1307,28,Female,Low,Supportive,High Stress,Negative,Moderate,3,No,Moderate Risk
+YTH1308,26,Female,Moderate,Supportive,Stable,Neutral,High,4,Yes,Moderate Risk
+YTH1309,28,Female,Moderate,Supportive,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH1310,23,Female,High,Supportive,Moderate Stress,Positive,Moderate,2,Yes,Moderate Risk
+YTH1311,29,Female,Low,Supportive,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH1312,27,Female,Low,Conflict,Moderate Stress,Positive,Low,3,No,Low Risk
+YTH1313,26,Female,High,Supportive,Stable,Neutral,Low,4,Yes,Low Risk
+YTH1314,19,Female,Moderate,Neutral,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1315,15,Male,High,Supportive,High Stress,Neutral,Low,3,No,Moderate Risk
+YTH1316,21,Male,Moderate,Supportive,Stable,Positive,High,3,No,Moderate Risk
+YTH1317,15,Male,Low,Supportive,Stable,Neutral,Low,5,Yes,Low Risk
+YTH1318,26,Male,Moderate,Conflict,High Stress,Negative,Low,5,No,High Risk
+YTH1319,24,Female,Moderate,Neutral,Moderate Stress,Negative,High,5,Yes,High Risk
+YTH1320,17,Female,Moderate,Conflict,High Stress,Negative,Moderate,3,No,High Risk
+YTH1321,29,Male,Moderate,Supportive,Moderate Stress,Positive,Moderate,4,Yes,Low Risk
+YTH1322,27,Female,Low,Conflict,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1323,25,Female,Moderate,Supportive,High Stress,Negative,High,5,Yes,High Risk
+YTH1324,21,Male,Low,Supportive,Stable,Neutral,High,2,No,Moderate Risk
+YTH1325,17,Female,High,Conflict,Moderate Stress,Positive,Low,3,Yes,Moderate Risk
+YTH1326,21,Female,Low,Conflict,High Stress,Positive,High,1,No,High Risk
+YTH1327,21,Female,Low,Supportive,Stable,Negative,Moderate,1,Yes,Moderate Risk
+YTH1328,20,Male,Low,Supportive,High Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1329,21,Male,High,Conflict,Stable,Positive,Low,4,Yes,Low Risk
+YTH1330,15,Female,High,Supportive,High Stress,Positive,High,1,No,High Risk
+YTH1331,24,Male,High,Supportive,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1332,16,Male,High,Supportive,Stable,Neutral,Low,4,Yes,Low Risk
+YTH1333,16,Male,High,Neutral,Stable,Neutral,Low,2,Yes,Moderate Risk
+YTH1334,19,Male,Moderate,Conflict,High Stress,Positive,Low,4,No,Moderate Risk
+YTH1335,23,Female,Low,Supportive,Stable,Neutral,Moderate,2,No,Low Risk
+YTH1336,16,Female,High,Neutral,Stable,Positive,Low,2,Yes,Low Risk
+YTH1337,28,Male,Low,Neutral,High Stress,Negative,Moderate,2,Yes,Moderate Risk
+YTH1338,24,Female,Moderate,Conflict,Stable,Neutral,Moderate,5,Yes,Moderate Risk
+YTH1339,30,Female,High,Conflict,Stable,Positive,Low,2,Yes,Moderate Risk
+YTH1340,17,Male,High,Supportive,Moderate Stress,Positive,Low,3,No,Low Risk
+YTH1341,29,Female,High,Supportive,Moderate Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH1342,16,Male,High,Supportive,Moderate Stress,Negative,Low,4,No,Moderate Risk
+YTH1343,15,Female,Moderate,Supportive,Moderate Stress,Negative,Moderate,4,Yes,Moderate Risk
+YTH1344,29,Female,Moderate,Supportive,Stable,Negative,High,3,Yes,Moderate Risk
+YTH1345,23,Female,High,Neutral,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1346,17,Female,Moderate,Supportive,Moderate Stress,Positive,High,1,Yes,Moderate Risk
+YTH1347,24,Male,High,Supportive,Moderate Stress,Negative,Low,5,Yes,Moderate Risk
+YTH1348,27,Male,Low,Neutral,High Stress,Positive,Moderate,5,Yes,Low Risk
+YTH1349,16,Female,Moderate,Neutral,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1350,19,Female,High,Supportive,High Stress,Negative,Low,5,No,Moderate Risk
+YTH1351,30,Female,Moderate,Neutral,Stable,Positive,Moderate,3,Yes,Low Risk
+YTH1352,17,Male,High,Supportive,Moderate Stress,Positive,High,2,No,High Risk
+YTH1353,20,Female,Moderate,Supportive,High Stress,Positive,High,3,Yes,Moderate Risk
+YTH1354,27,Male,High,Neutral,Moderate Stress,Positive,Low,3,No,Moderate Risk
+YTH1355,15,Male,Moderate,Neutral,High Stress,Neutral,Low,4,No,Moderate Risk
+YTH1356,18,Female,Low,Conflict,High Stress,Neutral,High,1,No,High Risk
+YTH1357,23,Male,Moderate,Supportive,Stable,Neutral,High,4,No,Moderate Risk
+YTH1358,22,Male,Low,Neutral,High Stress,Negative,Low,4,No,Moderate Risk
+YTH1359,28,Male,Moderate,Conflict,Stable,Neutral,Low,3,No,Moderate Risk
+YTH1360,28,Female,High,Supportive,Stable,Negative,Low,4,Yes,Low Risk
+YTH1361,28,Female,Low,Conflict,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH1362,16,Male,Moderate,Conflict,High Stress,Neutral,Low,2,No,High Risk
+YTH1363,28,Female,High,Supportive,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH1364,27,Female,Moderate,Supportive,Moderate Stress,Positive,High,1,No,Moderate Risk
+YTH1365,28,Male,High,Conflict,Stable,Negative,Low,2,No,High Risk
+YTH1366,29,Male,Moderate,Neutral,Moderate Stress,Negative,Low,5,No,Moderate Risk
+YTH1367,27,Female,High,Supportive,Moderate Stress,Positive,Moderate,5,Yes,Moderate Risk
+YTH1368,25,Female,Low,Neutral,Moderate Stress,Positive,Moderate,2,No,Moderate Risk
+YTH1369,21,Female,High,Neutral,Stable,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1370,25,Male,Low,Neutral,High Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH1371,27,Male,Low,Supportive,Moderate Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH1372,25,Female,Moderate,Conflict,Stable,Negative,High,3,Yes,High Risk
+YTH1373,25,Male,Moderate,Supportive,Moderate Stress,Neutral,Low,4,Yes,Low Risk
+YTH1374,22,Male,High,Supportive,High Stress,Positive,Low,1,No,Moderate Risk
+YTH1375,29,Female,Moderate,Conflict,Stable,Positive,Moderate,4,No,Moderate Risk
+YTH1376,23,Female,High,Supportive,Stable,Negative,High,3,No,Moderate Risk
+YTH1377,17,Male,Moderate,Conflict,Moderate Stress,Negative,Moderate,1,No,High Risk
+YTH1378,25,Male,High,Neutral,Moderate Stress,Neutral,Moderate,5,Yes,Moderate Risk
+YTH1379,29,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1380,29,Male,High,Neutral,Moderate Stress,Positive,Moderate,3,No,Moderate Risk
+YTH1381,15,Female,Moderate,Conflict,Stable,Positive,Moderate,3,No,Moderate Risk
+YTH1382,25,Male,Moderate,Conflict,High Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1383,15,Male,High,Supportive,Stable,Negative,Moderate,5,No,Moderate Risk
+YTH1384,20,Male,Low,Neutral,High Stress,Positive,Low,4,Yes,Low Risk
+YTH1385,25,Male,Low,Supportive,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH1386,19,Female,Low,Supportive,Stable,Neutral,Low,1,Yes,Low Risk
+YTH1387,23,Female,Low,Supportive,Moderate Stress,Positive,Moderate,1,No,Moderate Risk
+YTH1388,15,Male,High,Supportive,Stable,Positive,High,5,Yes,Moderate Risk
+YTH1389,15,Female,Moderate,Supportive,High Stress,Neutral,High,2,Yes,High Risk
+YTH1390,30,Male,Moderate,Conflict,Stable,Neutral,Low,3,Yes,Low Risk
+YTH1391,29,Male,Moderate,Conflict,Moderate Stress,Neutral,High,1,No,High Risk
+YTH1392,24,Male,Moderate,Supportive,Moderate Stress,Negative,Moderate,5,Yes,Moderate Risk
+YTH1393,25,Female,High,Neutral,Stable,Neutral,Low,5,Yes,Low Risk
+YTH1394,25,Male,Moderate,Supportive,High Stress,Positive,Moderate,3,Yes,Moderate Risk
+YTH1395,30,Male,High,Supportive,Moderate Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1396,21,Female,Moderate,Supportive,Stable,Negative,Moderate,4,No,Moderate Risk
+YTH1397,17,Female,Low,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH1398,16,Male,High,Supportive,Moderate Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH1399,15,Male,High,Supportive,Stable,Neutral,High,4,Yes,Moderate Risk
+YTH1400,26,Male,High,Supportive,High Stress,Negative,Moderate,1,Yes,High Risk
+YTH1401,30,Male,Moderate,Neutral,Stable,Positive,High,1,No,Moderate Risk
+YTH1402,15,Male,Moderate,Conflict,Stable,Positive,Moderate,2,No,Moderate Risk
+YTH1403,27,Male,Low,Neutral,Moderate Stress,Positive,High,5,No,Moderate Risk
+YTH1404,21,Female,Moderate,Supportive,High Stress,Positive,High,2,No,High Risk
+YTH1405,23,Male,Moderate,Supportive,Moderate Stress,Neutral,Moderate,2,Yes,Moderate Risk
+YTH1406,18,Male,Low,Conflict,Stable,Neutral,Low,3,No,Low Risk
+YTH1407,24,Female,Low,Neutral,Stable,Positive,High,2,Yes,Moderate Risk
+YTH1408,30,Male,Low,Conflict,Moderate Stress,Positive,Low,4,Yes,Low Risk
+YTH1409,17,Male,Low,Neutral,Moderate Stress,Positive,Moderate,1,Yes,Moderate Risk
+YTH1410,21,Female,Low,Supportive,Stable,Negative,Low,2,No,Low Risk
+YTH1411,29,Male,High,Supportive,Stable,Negative,Moderate,2,Yes,Moderate Risk
+YTH1412,21,Female,Moderate,Supportive,High Stress,Positive,Low,5,No,Low Risk
+YTH1413,20,Male,Moderate,Supportive,Stable,Positive,Moderate,1,Yes,Low Risk
+YTH1414,25,Female,Low,Conflict,Moderate Stress,Positive,Low,1,No,Moderate Risk
+YTH1415,18,Male,High,Supportive,Moderate Stress,Positive,High,4,No,Moderate Risk
+YTH1416,24,Female,Moderate,Neutral,Moderate Stress,Neutral,Low,4,No,Moderate Risk
+YTH1417,19,Female,Moderate,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH1418,20,Female,High,Supportive,Stable,Positive,Moderate,5,Yes,Low Risk
+YTH1419,27,Male,High,Supportive,High Stress,Neutral,Moderate,4,No,Moderate Risk
+YTH1420,27,Female,Moderate,Supportive,Stable,Neutral,Low,2,Yes,Low Risk
+YTH1421,21,Female,High,Neutral,High Stress,Neutral,Moderate,2,No,High Risk
+YTH1422,19,Female,Low,Neutral,Stable,Negative,High,5,No,Moderate Risk
+YTH1423,16,Male,Low,Neutral,Stable,Positive,Moderate,2,No,Low Risk
+YTH1424,15,Male,Moderate,Neutral,Stable,Neutral,Moderate,2,No,Moderate Risk
+YTH1425,21,Male,Moderate,Neutral,High Stress,Positive,High,3,Yes,Moderate Risk
+YTH1426,18,Male,Low,Supportive,High Stress,Positive,High,3,No,Moderate Risk
+YTH1427,21,Male,High,Supportive,Stable,Neutral,Low,4,No,Low Risk
+YTH1428,25,Male,Low,Supportive,Moderate Stress,Negative,Low,4,Yes,Low Risk
+YTH1429,28,Male,Moderate,Neutral,Moderate Stress,Positive,High,2,Yes,Moderate Risk
+YTH1430,19,Female,Low,Supportive,High Stress,Neutral,Moderate,1,No,Moderate Risk
+YTH1431,29,Male,Moderate,Supportive,Moderate Stress,Neutral,Low,3,Yes,Low Risk
+YTH1432,26,Male,Low,Neutral,Moderate Stress,Negative,Low,2,No,Moderate Risk
+YTH1433,24,Male,Moderate,Conflict,Moderate Stress,Neutral,Moderate,2,No,High Risk
+YTH1434,23,Male,Moderate,Conflict,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1435,22,Female,Low,Conflict,Stable,Positive,High,4,Yes,Moderate Risk
+YTH1436,25,Male,Low,Conflict,Moderate Stress,Neutral,Low,4,Yes,Low Risk
+YTH1437,30,Female,Moderate,Neutral,Stable,Positive,Moderate,5,No,Low Risk
+YTH1438,28,Female,Low,Supportive,Stable,Positive,Low,1,No,Low Risk
+YTH1439,17,Female,High,Conflict,Stable,Positive,High,2,Yes,High Risk
+YTH1440,20,Female,Low,Neutral,Stable,Positive,Low,1,No,Low Risk
+YTH1441,17,Male,Moderate,Conflict,High Stress,Neutral,Low,1,Yes,Moderate Risk
+YTH1442,16,Male,Low,Neutral,Stable,Positive,High,1,No,Moderate Risk
+YTH1443,22,Male,Low,Supportive,Stable,Neutral,Moderate,2,No,Low Risk
+YTH1444,20,Female,Low,Neutral,High Stress,Positive,Low,1,Yes,Low Risk
+YTH1445,20,Male,Low,Conflict,Moderate Stress,Positive,Low,1,Yes,Moderate Risk
+YTH1446,20,Female,High,Supportive,Stable,Negative,Low,4,No,Moderate Risk
+YTH1447,21,Female,Low,Supportive,Stable,Positive,High,3,No,Low Risk
+YTH1448,20,Male,Low,Neutral,High Stress,Positive,High,4,Yes,Moderate Risk
+YTH1449,29,Male,High,Neutral,Stable,Negative,High,5,Yes,Moderate Risk
+YTH1450,23,Female,Moderate,Neutral,Moderate Stress,Neutral,High,3,Yes,Moderate Risk
+YTH1451,22,Male,Low,Supportive,Moderate Stress,Neutral,High,4,No,Moderate Risk
+YTH1452,29,Female,Low,Neutral,Stable,Negative,High,3,No,Moderate Risk
+YTH1453,19,Female,Moderate,Supportive,High Stress,Negative,Low,2,Yes,Moderate Risk
+YTH1454,18,Male,Moderate,Supportive,Stable,Positive,Moderate,3,No,Low Risk
+YTH1455,22,Male,Moderate,Neutral,Moderate Stress,Negative,Low,1,No,Moderate Risk
+YTH1456,18,Male,High,Neutral,Moderate Stress,Positive,Moderate,4,Yes,Moderate Risk
+YTH1457,28,Female,Low,Supportive,Stable,Neutral,Moderate,4,Yes,Low Risk
+YTH1458,19,Female,Moderate,Supportive,Moderate Stress,Positive,Moderate,4,Yes,Low Risk
+YTH1459,15,Female,Moderate,Supportive,High Stress,Neutral,High,3,No,Moderate Risk
+YTH1460,23,Female,Moderate,Supportive,Stable,Positive,Low,5,Yes,Low Risk
+YTH1461,22,Male,Moderate,Neutral,Stable,Neutral,Low,2,No,Moderate Risk
+YTH1462,17,Female,Moderate,Conflict,High Stress,Neutral,Low,4,Yes,Moderate Risk
+YTH1463,23,Male,Moderate,Conflict,Moderate Stress,Positive,Low,3,No,Moderate Risk
+YTH1464,19,Female,High,Neutral,Stable,Negative,Low,2,Yes,Moderate Risk
+YTH1465,24,Male,High,Supportive,High Stress,Positive,High,4,Yes,Moderate Risk
+YTH1466,24,Female,Low,Supportive,Stable,Neutral,Moderate,3,No,Low Risk
+YTH1467,19,Female,Moderate,Neutral,Moderate Stress,Negative,Low,3,No,Moderate Risk
+YTH1468,23,Male,High,Neutral,Stable,Positive,High,1,Yes,Moderate Risk
+YTH1469,25,Female,Moderate,Supportive,Moderate Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1470,20,Female,Moderate,Conflict,Moderate Stress,Positive,High,1,Yes,High Risk
+YTH1471,19,Female,Low,Supportive,Stable,Neutral,High,2,Yes,Moderate Risk
+YTH1472,26,Female,Moderate,Supportive,High Stress,Neutral,Moderate,5,No,Moderate Risk
+YTH1473,27,Male,Moderate,Supportive,Stable,Positive,High,3,Yes,Low Risk
+YTH1474,22,Male,Moderate,Neutral,Stable,Negative,Low,1,Yes,Moderate Risk
+YTH1475,22,Male,High,Conflict,Stable,Positive,Moderate,4,Yes,Moderate Risk
+YTH1476,24,Female,Low,Neutral,Moderate Stress,Positive,Low,1,Yes,Low Risk
+YTH1477,22,Female,Low,Neutral,Moderate Stress,Positive,High,2,No,Moderate Risk
+YTH1478,21,Male,Moderate,Conflict,Moderate Stress,Positive,Moderate,5,No,Moderate Risk
+YTH1479,20,Male,High,Supportive,Stable,Negative,Moderate,3,No,Moderate Risk
+YTH1480,15,Female,Moderate,Neutral,Moderate Stress,Neutral,Low,1,No,Moderate Risk
+YTH1481,18,Male,Low,Neutral,Moderate Stress,Negative,Moderate,5,No,Moderate Risk
+YTH1482,26,Female,Low,Neutral,Moderate Stress,Negative,Low,5,Yes,Low Risk
+YTH1483,24,Male,Low,Supportive,Stable,Neutral,Moderate,3,No,Low Risk
+YTH1484,27,Male,High,Neutral,Moderate Stress,Negative,Moderate,2,Yes,High Risk
+YTH1485,18,Male,High,Neutral,High Stress,Negative,High,3,No,High Risk
+YTH1486,27,Male,Low,Supportive,Moderate Stress,Negative,Moderate,3,Yes,Moderate Risk
+YTH1487,23,Female,Moderate,Supportive,Stable,Positive,Low,4,Yes,Low Risk
+YTH1488,18,Male,High,Conflict,Stable,Positive,Moderate,4,No,Moderate Risk
+YTH1489,23,Male,High,Neutral,Moderate Stress,Positive,Low,4,Yes,Low Risk
+YTH1490,16,Female,Moderate,Neutral,Stable,Positive,High,1,No,Moderate Risk
+YTH1491,24,Female,Low,Supportive,Moderate Stress,Negative,Low,4,Yes,Low Risk
+YTH1492,16,Female,Moderate,Neutral,High Stress,Neutral,Moderate,3,No,Moderate Risk
+YTH1493,17,Female,Moderate,Neutral,Stable,Neutral,Moderate,5,Yes,Low Risk
+YTH1494,25,Female,Moderate,Neutral,Stable,Negative,High,2,No,High Risk
+YTH1495,28,Female,High,Supportive,Stable,Positive,High,4,No,Moderate Risk
+YTH1496,20,Male,Moderate,Conflict,High Stress,Positive,Low,2,Yes,Moderate Risk
+YTH1497,21,Female,Low,Supportive,Stable,Neutral,Low,1,Yes,Low Risk
+YTH1498,23,Male,High,Neutral,High Stress,Neutral,Low,3,No,Moderate Risk
+YTH1499,27,Male,Moderate,Neutral,Moderate Stress,Negative,Low,4,Yes,Moderate Risk
+YTH1500,21,Male,High,Conflict,High Stress,Neutral,High,3,Yes,High Risk
