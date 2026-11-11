@@ -12,36 +12,66 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report, confusion_matrix, roc_curve, auc, accuracy_score, f1_score
 from sklearn.preprocessing import label_binarize
 
-# Page Configuration
+# Page Configuration & Layout
 st.set_page_config(
-    page_title="Youth Substance Abuse Risk Assessor - Harare Province", 
+    page_title="Youth Substance Abuse Risk Assessor - Harare", 
     page_icon="🛡️", 
     layout="wide"
 )
 
+# --- CUSTOM CSS STYLING FOR COLORS & INTUITIVENESS ---
+st.markdown("""
+    <style>
+    .main-header {
+        font-size: 28px;
+        font-weight: 700;
+        color: #1E3A8A;
+        margin-bottom: 0px;
+    }
+    .sub-header {
+        font-size: 16px;
+        color: #4B5563;
+        font-weight: 500;
+    }
+    .card-container {
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #F8FAFC;
+        border: 1px solid #E2E8F0;
+        margin-bottom: 20px;
+    }
+    .highlight-box {
+        padding: 15px;
+        border-radius: 8px;
+        background-color: #EFF6FF;
+        border-left: 5px solid #3B82F6;
+        margin-bottom: 15px;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 # --- SECURITY / PASSWORD MECHANISM ---
-st.sidebar.header("🔐 Access Security")
+st.sidebar.header("🔐 Access Security Gate")
 app_password = st.sidebar.text_input("Enter Access Password", type="password")
 
-# Change 'tanaka2026' to any password you prefer for your supervisor/defense
 CORRECT_PASSWORD = "tanaka2026"
 
 if app_password != CORRECT_PASSWORD:
-    st.title("🛡️ Predicting High-Risk Drug and Substance Use Among Youths in Harare Province Using a Random Forest Model")
-    st.markdown("### **Dissertation Empirical Decision Support Suite**")
-    st.caption("**Author:** Tanaka Richard Eusebio Muzunze (W230307)")
-    st.warning("⚠️ **Access Restricted:** Please enter the authorized access password in the sidebar to unlock the model and dashboard.")
-    st.stop() # Halts execution here if password is incorrect
+    st.markdown('<p class="main-header">🛡️ Predicting High-Risk Drug and Substance Use Among Youths in Harare Province Using a Random Forest Model</p>', unsafe_allow_html=True)
+    st.markdown('<p class="sub-header">Dissertation Empirical Decision Support Suite | Author: Tanaka Richard Eusebio Muzunze (W230307)</p>', unsafe_allow_html=True)
+    st.markdown("---")
+    st.warning("⚠️ **Access Restricted:** Please enter the authorized supervisor password in the sidebar to unlock the application interface.")
+    st.stop()
 
-# --- MAIN APP (Unlocked when password is correct) ---
-st.title("🛡️ Predicting High-Risk Drug and Substance Use Among Youths in Harare Province Using a Random Forest Model")
-st.markdown("### **Empirical Decision Support & Machine Learning Diagnostic Suite**")
-st.caption("**Author:** Tanaka Richard Eusebio Muzunze (W230307) | **Model:** Balanced Ensemble Random Forest Classifier")
+# --- HEADER SECTION ---
+st.markdown('<p class="main-header">🛡️ Predicting High-Risk Drug and Substance Use Among Youths in Harare Province Using a Random Forest Model</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Interactive Machine Learning Decision Support & Dissertation Defense Dashboard</p>', unsafe_allow_html=True)
+st.caption("**Author:** Tanaka Richard Eusebio Muzunze (W230307) | **Model Architecture:** Balanced Ensemble Random Forest Classifier")
+st.markdown("---")
 
 # Sidebar - Dataset Upload
-st.sidebar.markdown("---")
-st.sidebar.header("📁 Data Control Panel")
-uploaded_file = st.sidebar.file_uploader("Upload Dissertation CSV Dataset", type=["csv"])
+st.sidebar.markdown("### 📁 Data Configuration")
+uploaded_file = st.sidebar.file_uploader("Upload Master CSV Dataset", type=["csv"])
 
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
@@ -81,24 +111,51 @@ if uploaded_file is not None:
     pipeline.fit(X_train, y_train)
     y_pred_eval = pipeline.predict(X_test)
     
-    # --- TOP-LEVEL EXECUTIVE METRICS BAR ---
-    st.markdown("---")
-    m1, m2, m3, m4 = st.columns(4)
-    acc_val = accuracy_score(y_test, y_pred_eval)
-    f1_val = f1_score(y_test, y_pred_eval, average='macro')
+    # --- NAVIGATION TABS ---
+    tab_home, tab1, tab2, tab3 = st.tabs([
+        "🏠 Home & Objectives", 
+        "🎯 Single Profile Interactive Inference", 
+        "📊 Dissertation Visual Figures", 
+        "📋 Full Diagnostics & Metrics"
+    ])
     
-    m1.metric(label="Global Test Accuracy", value=f"{acc_val*100:.2f}%", delta="Harare Province Baseline")
-    m2.metric(label="Macro F1-Score", value=f"{f1_val:.4f}", delta="Balanced Optimization")
-    m3.metric(label="Evaluation Split Size", value=f"{len(y_test)} Cases", delta="20% Stratified")
-    m4.metric(label="Total Dataset Volume", value=f"{len(df)} Records", delta="Master Matrix")
-    st.markdown("---")
-    
-    # Main Dashboard Tabs
-    tab1, tab2, tab3 = st.tabs(["🎯 Single Profile Interactive Inference", "📊 Dissertation Visual Figures & Plots", "📋 Full Diagnostics & Metrics"])
-    
+    with tab_home:
+        st.subheader("Welcome to the Dissertation Evaluation Portal")
+        
+        col_h1, col_h2 = st.columns([1.5, 1])
+        
+        with col_h1:
+            st.markdown("""
+            <div class="highlight-box">
+            <h4>📌 Core Research Objective</h4>
+            <p>This research evaluates and predicts high-risk substance use patterns among youths within Harare Province. By leveraging socio-ecological indicators, peer influence dynamics, and family environment structures, this system deploys an optimized Random Forest machine learning pipeline to identify vulnerability tiers and support early intervention strategies.</p>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            st.markdown("""
+            ### 🔑 Key System Capabilities
+            * **Real-time Predictive Inference:** Test individual youth risk profiles by modifying socio-environmental parameters.
+            * **Academic Visualizations:** Explore empirical density plots, confusion matrices, and multi-class ROC curves.
+            * **Balanced Optimization:** Mitigates class imbalance to ensure robust sensitivity and specificity across all risk categories.
+            """)
+            
+        with col_h2:
+            st.markdown("""
+            <div class="card-container">
+            <h4>📊 Quick Model Metrics Overview</h4>
+            """, unsafe_allow_html=True)
+            
+            acc_val = accuracy_score(y_test, y_pred_eval)
+            f1_val = f1_score(y_test, y_pred_eval, average='macro')
+            
+            st.metric(label="Global Test Accuracy", value=f"{acc_val*100:.2f}%")
+            st.metric(label="Macro F1-Score", value=f"{f1_val:.4f}")
+            st.metric(label="Evaluation Split", value=f"{len(y_test)} Cases (20%)")
+            st.markdown("</div>", unsafe_allow_html=True)
+            
     with tab1:
         st.subheader("Individual Youth Risk Profile Assessment (Harare Context)")
-        st.markdown("Adjust the socio-ecological indicator parameters below to evaluate real-time model risk classification and probability confidence outputs.")
+        st.markdown("Adjust the socio-ecological parameters below to evaluate real-time model risk classification, confidence probability breakdown, and actionable recommendations.")
         
         col1, col2 = st.columns(2)
         
@@ -127,24 +184,36 @@ if uploaded_file is not None:
             'Received_Counselling': counselling
         }])
         
-        if st.button("🚀 Run Predictive Inference Analysis", type="primary"):
+        st.markdown("<br>", unsafe_allow_html=True)
+        if st.button("🚀 Run Predictive Inference Analysis", type="primary", use_container_width=True):
             pred_class_idx = pipeline.predict(input_data)[0]
             pred_probs = pipeline.predict_proba(input_data)[0]
             risk_label = classes[pred_class_idx]
             
-            if risk_label == "High Risk":
-                st.error(f"### ⚠️ Evaluated Risk Tier: **{risk_label}** (Immediate Intervention Recommended)")
-            elif risk_label == "Moderate Risk":
-                st.warning(f"### ⚠️ Evaluated Risk Tier: **{risk_label}** (Targeted Support Advised)")
-            else:
-                st.success(f"### ✅ Evaluated Risk Tier: **{risk_label}** (Stable Baseline)")
+            st.markdown("---")
+            st.subheader("📋 Evaluation Results & Interpretation")
             
-            st.markdown("#### Class Probability Confidence Distribution:")
-            prob_df = pd.DataFrame({'Risk Tier': classes, 'Confidence Probability': pred_probs})
-            st.bar_chart(prob_df.set_index('Risk Tier'))
+            res_col1, res_col2 = st.columns([1, 1.2])
+            
+            with res_col1:
+                if risk_label == "High Risk":
+                    st.error(f"### 🔴 Evaluated Risk Tier: **{risk_label}**")
+                    st.markdown("**Actionable Insight:** Immediate intervention, professional psychological support, and targeted community counselling recommended.")
+                elif risk_label == "Moderate Risk":
+                    st.warning(f"### 🟠 Evaluated Risk Tier: **{risk_label}**")
+                    st.markdown("**Actionable Insight:** Proactive mentorship, family engagement, and routine monitoring advised to prevent escalation.")
+                else:
+                    st.success(f"### 🟢 Evaluated Risk Tier: **{risk_label}**")
+                    st.markdown("**Actionable Insight:** Stable behavioral profile. Continue positive community engagement and healthy activity levels.")
+                    
+            with res_col2:
+                st.markdown("#### Confidence Probability Distribution:")
+                prob_df = pd.DataFrame({'Risk Tier': classes, 'Confidence Probability': pred_probs})
+                st.bar_chart(prob_df.set_index('Risk Tier'))
 
     with tab2:
         st.subheader("Dissertation Graphical Analysis Suite")
+        st.markdown("All figures comply with academic APA/IEEE formatting standards.")
         
         col_v1, col_v2 = st.columns(2)
         
@@ -218,6 +287,7 @@ if uploaded_file is not None:
 
     with tab3:
         st.subheader("Comprehensive Classification Report & Metrics")
+        st.markdown("Detailed breakdown of precision, recall, and F1-score across all risk strata evaluated on the test set.")
         st.code(classification_report(y_test, y_pred_eval, target_names=classes))
 else:
-    st.info("👈 Please enter the password, then upload your `ZIM_Survey_Youth_Substance_Abuse_Dataset.csv` dataset using the sidebar file uploader to launch the system.")
+    st.info("👈 Please enter the security password in the sidebar, then upload your `ZIM_Survey_Youth_Substance_Abuse_Dataset.csv` dataset using the sidebar file uploader to launch the system.")
