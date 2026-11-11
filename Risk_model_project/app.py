@@ -25,26 +25,24 @@ st.markdown("""
     .main-header {
         font-size: 28px;
         font-weight: 700;
-        color: #1E3A8A;
         margin-bottom: 0px;
     }
     .sub-header {
         font-size: 16px;
-        color: #4B5563;
         font-weight: 500;
     }
     .card-container {
         padding: 20px;
         border-radius: 10px;
-        background-color: #F8FAFC;
-        border: 1px solid #E2E8F0;
+        background-color: rgba(30, 41, 59, 0.7);
+        border: 1px solid #475569;
         margin-bottom: 20px;
     }
     .highlight-box {
-        padding: 15px;
+        padding: 20px;
         border-radius: 8px;
-        background-color: #EFF6FF;
-        border-left: 5px solid #3B82F6;
+        background-color: rgba(30, 58, 138, 0.4);
+        border-left: 6px solid #3B82F6;
         margin-bottom: 15px;
     }
     </style>
